@@ -1,0 +1,428 @@
+{
+  "curated_snapshot": {
+    "compiled_at": "2026-09-04",
+    "note": "Manually verified via live browsing of Naukri.com and LinkedIn Jobs. Links expire — treat as a snapshot, not a permanent list.",
+    "india": [
+      {
+        "role": "AI Product Manager / Product Owner",
+        "company": "TCG Digital Solutions",
+        "experience": "10–20 yrs",
+        "location": "Kolkata / Pune / Mumbai (Hybrid)",
+        "url": "https://www.naukri.com/job-listings-ai-product-manager-product-owner-tcg-digital-solutions-kolkata-pune-mumbai-all-areas-10-to-20-years-150526031803"
+      },
+      {
+        "role": "Product Manager (AI/SaaS)",
+        "company": "Simpleo",
+        "experience": "5–10 yrs",
+        "location": "Noida",
+        "url": "https://www.naukri.com/job-listings-product-manager-simpleo-ai-noida-5-to-10-years-100826504354"
+      },
+      {
+        "role": "Product Owner – AI Enabled Product Development",
+        "company": "Clean Harbors",
+        "experience": "12–16 yrs",
+        "location": "Hyderabad",
+        "url": "https://www.naukri.com/job-listings-product-owner-ai-enabled-product-development-clean-harbors-hyderabad-12-to-16-years-140426017170"
+      },
+      {
+        "role": "Product Manager",
+        "company": "Deccan AI",
+        "experience": "2–7 yrs",
+        "location": "Hyderabad",
+        "url": "https://www.naukri.com/job-listings-product-manager-deccan-ai-hyderabad-2-to-7-years-100826503659"
+      },
+      {
+        "role": "ServiceNow AI Product Manager",
+        "company": "Thryve Digital Health (enGen Global)",
+        "experience": "10–15 yrs",
+        "location": "Hyderabad / Chennai",
+        "url": "https://www.naukri.com/job-listings-servicenow-ai-product-manager-thryve-digital-health-llp-hyderabad-chennai-10-to-15-years-010926932799"
+      },
+      {
+        "role": "Product Manager (AI/ML analytics)",
+        "company": "KPI Partners",
+        "experience": "10–16 yrs",
+        "location": "Hyderabad / Pune / Bengaluru (₹35–55L)",
+        "url": "https://www.naukri.com/job-listings-product-manager-kpi-partners-hyderabad-pune-bengaluru-10-to-16-years-030926021915"
+      },
+      {
+        "role": "AI Product Lead",
+        "company": "SatSure Analytics",
+        "experience": "5–7 yrs",
+        "location": "Bengaluru",
+        "url": "https://www.naukri.com/job-listings-ai-product-lead-satsure-analytics-india-pvt-ltd-bengaluru-5-to-7-years-010726503725"
+      },
+      {
+        "role": "Product Manager (Generative AI/Healthcare)",
+        "company": "Optum",
+        "experience": "3–8 yrs",
+        "location": "Hyderabad",
+        "url": "https://www.naukri.com/job-listings-product-manager-optum-global-solutions-india-private-limited-hyderabad-3-to-8-years-310826920501"
+      },
+      {
+        "role": "Responsible AI Manager",
+        "company": "Amgen Inc",
+        "experience": "8–13 yrs",
+        "location": "Hyderabad",
+        "url": "https://www.naukri.com/job-listings-responsible-ai-manager-amgen-inc-hyderabad-8-to-13-years-310826919736"
+      },
+      {
+        "role": "AI Product Manager (entry-level)",
+        "company": "Jobaaj.com",
+        "experience": "0–1 yrs (₹3–5L)",
+        "location": "Hyderabad / Gurugram / Bengaluru",
+        "url": "https://www.naukri.com/job-listings-ai-product-manager-jobaaj-com-hyderabad-gurugram-bengaluru-0-to-1-years-240826028398"
+      },
+      {
+        "role": "Product Manager – Conversational AI",
+        "company": "MyOperator",
+        "experience": "",
+        "location": "Noida",
+        "url": "https://in.linkedin.com/jobs/view/product-manager-conversational-ai-at-myoperator-4458379346"
+      },
+      {
+        "role": "Product Manager",
+        "company": "Allerin",
+        "experience": "",
+        "location": "India",
+        "url": "https://in.linkedin.com/jobs/view/product-manager-at-allerin-4460458564"
+      }
+    ],
+    "global": [
+      {
+        "role": "Principal/Senior Product Manager, AI and Agent",
+        "company": "OKX",
+        "location": "Singapore",
+        "url": "https://sg.linkedin.com/jobs/view/principal-senior-product-manager-ai-and-agent-at-okx-4322995094"
+      },
+      {
+        "role": "Senior Product Manager – AI, NBS AI and OPS",
+        "company": "Amazon",
+        "location": "Shanghai, China",
+        "url": "https://cn.linkedin.com/jobs/view/senior-product-manager-ai-nbs-ai-and-ops-at-amazon-4455905690"
+      },
+      {
+        "role": "Senior AI Product Manager, Global Selling – PMO",
+        "company": "Amazon",
+        "location": "Shenzhen, China",
+        "url": "https://cn.linkedin.com/jobs/view/senior-ai-product-manager-amazon-global-selling-pmo-at-amazon-4455908363"
+      },
+      {
+        "role": "Product Manager, AI",
+        "company": "Lucid Software",
+        "location": "Salt Lake City, UT, USA",
+        "url": "https://www.linkedin.com/jobs/view/product-manager-ai-at-lucid-software-4444041859"
+      },
+      {
+        "role": "Principal Product Manager, AI Solutions",
+        "company": "RBC",
+        "location": "Vancouver, Canada",
+        "url": "https://ca.linkedin.com/jobs/view/principal-product-manager-ai-solutions-at-rbc-4454046088"
+      },
+      {
+        "role": "Product Manager – Enterprise Solutions (AI)",
+        "company": "Meta",
+        "location": "Singapore",
+        "url": "https://sg.linkedin.com/jobs/view/product-manager-enterprise-solutions-at-meta-4438443912"
+      },
+      {
+        "role": "AI Product Manager – Public 360",
+        "company": "Tieto",
+        "location": "Oslo, Norway",
+        "url": "https://no.linkedin.com/jobs/view/ai-product-manager-public-360-tieto-indtech-m-f-d-at-tieto-4430471546"
+      },
+      {
+        "role": "Product Manager",
+        "company": "Murphy AI",
+        "location": "Dubai, UAE",
+        "url": "https://ae.linkedin.com/jobs/view/product-manager-at-murphy-ai-4446903775"
+      },
+      {
+        "role": "Senior Product Manager – Tech, FBA AI Science & Analytics",
+        "company": "Amazon",
+        "location": "Bellevue, WA, USA",
+        "url": "https://www.linkedin.com/jobs/view/senior-product-manager-tech-fba-ai-science-analytics-at-amazon-4460526997"
+      },
+      {
+        "role": "Principal PM – Technical, AGI: AI Services",
+        "company": "Amazon",
+        "location": "Seattle, WA, USA",
+        "url": "https://www.linkedin.com/jobs/view/principal-product-manager-technical-external-services-artificial-general-intelligence-agi-ai-services-at-amazon-4455914953"
+      },
+      {
+        "role": "Principal Product Manager, AI",
+        "company": "LinkedIn",
+        "location": "Mountain View, CA, USA",
+        "url": "https://www.linkedin.com/jobs/view/principal-product-manager-ai-at-linkedin-4455944153"
+      },
+      {
+        "role": "Senior Product Manager, AI Automation",
+        "company": "Adobe",
+        "location": "San Jose, CA, USA",
+        "url": "https://www.linkedin.com/jobs/view/senior-product-manager-ai-automation-at-adobe-4414789765"
+      },
+      {
+        "role": "Product Manager, Enterprise AI & Portfolio Management",
+        "company": "Salesforce",
+        "location": "Denver, CO, USA",
+        "url": "https://www.linkedin.com/jobs/view/product-manager-enterprise-ai-portfolio-management-platforms-at-salesforce-4454833376"
+      },
+      {
+        "role": "Senior Staff Product Manager, AI Knowledge Graph & Intelligence",
+        "company": "Cisco",
+        "location": "USA",
+        "url": "https://www.linkedin.com/jobs/view/senior-staff-product-manager-ai-knowledge-graph-intelligence-at-cisco-4450541828"
+      }
+    ],
+    "saved_searches": [
+      {
+        "label": "Naukri: AI Product Manager (India)",
+        "url": "https://www.naukri.com/ai-product-manager-jobs"
+      },
+      {
+        "label": "LinkedIn: AI Product Manager (Worldwide)",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Product%20Manager&location=Worldwide"
+      },
+      {
+        "label": "LinkedIn: AI Product Manager, Remote (US)",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=AI%20Product%20Manager&location=United%20States&f_WT=2"
+      }
+    ]
+  },
+  "live_feed": {
+    "generated_at": "2026-09-04T06:07:09.831Z",
+    "sources": [
+      "Remotive API",
+      "Arbeitnow API"
+    ],
+    "jobs": [
+      {
+        "title": "Product Manager, BSG (m/f/d)",
+        "company": "autoscout24",
+        "location": "",
+        "url": "https://www.arbeitnow.com/jobs/companies/autoscout24/product-manager-bsg-376558",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-04",
+        "remote": false,
+        "tags": [
+          "Product & Design"
+        ]
+      },
+      {
+        "title": "Senior Strategist, Data & AI (Remote - US, UK, Nigeria, Ethiopia, India or Rwanda)",
+        "company": "Resolvetosavelives",
+        "location": "United States, Nigeria, Ethiopia, India or Rwanda",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/resolvetosavelives/senior-strategist-data-ai-remote-us-uk-nigeria-ethiopia-india-or-rwanda-united-states-nigeria-ethiopia-india-or-rwanda-298614",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-04",
+        "remote": false,
+        "tags": [
+          "Executive Office"
+        ]
+      },
+      {
+        "title": "Senior Data Engineer",
+        "company": "Zoominfo",
+        "location": "London",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/zoominfo/senior-data-engineer-london-374837",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-04",
+        "remote": false,
+        "tags": [
+          "965 Product Management - AI & Strategy"
+        ]
+      },
+      {
+        "title": "Product Management Director – Soft FM & Estates (UK)",
+        "company": "Singu",
+        "location": "UK",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/singu/product-management-director-soft-fm-estates-uk-186249",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-04",
+        "remote": false,
+        "tags": [
+          "UK&I"
+        ]
+      },
+      {
+        "title": "Senior/Tech Lead Backend Engineer (Managed Kubernetes)",
+        "company": "Nebius",
+        "location": "Berlin",
+        "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-tech-lead-backend-engineer-managed-kubernetes-berlin-38502",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-03",
+        "remote": false,
+        "tags": [
+          "Backend"
+        ]
+      },
+      {
+        "title": "Account Executive – New Business",
+        "company": "Fiskaly",
+        "location": "Berlin, Berlin",
+        "url": "https://www.arbeitnow.com/jobs/companies/fiskaly/account-executive-new-business-berlin-berlin-353654",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-03",
+        "remote": false,
+        "tags": [
+          "Sales"
+        ]
+      },
+      {
+        "title": "Senior Java Engineer (m/f/d) - Team Search",
+        "company": "Flix",
+        "location": "Berlin, Germany",
+        "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-java-engineer-team-search-berlin-139280",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-03",
+        "remote": false,
+        "tags": []
+      },
+      {
+        "title": "Senior Product Manager (Giftcard)",
+        "company": "Atolls",
+        "location": "Berlin, Germany",
+        "url": "https://www.arbeitnow.com/jobs/companies/atolls/senior-product-manager-giftcard-berlin-190872",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-03",
+        "remote": false,
+        "tags": []
+      },
+      {
+        "title": "Senior Product Manager (Giftcard)",
+        "company": "Atolls",
+        "location": "Munich, Bavaria, Germany",
+        "url": "https://www.arbeitnow.com/jobs/companies/atolls/senior-product-manager-giftcard-munich-4791",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-03",
+        "remote": false,
+        "tags": []
+      },
+      {
+        "title": "Senior Product Manager (Giftcard)",
+        "company": "Atolls",
+        "location": "London, England, United Kingdom",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/atolls/senior-product-manager-giftcard-london-231979",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-03",
+        "remote": false,
+        "tags": []
+      },
+      {
+        "title": "Senior Product Designer",
+        "company": "Deepl",
+        "location": "London",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/senior-product-designer-london-151911",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-03",
+        "remote": false,
+        "tags": [
+          "Product"
+        ]
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "Mubi",
+        "location": "London",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/mubi/senior-product-manager-london-195200",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-03",
+        "remote": false,
+        "tags": [
+          "Product"
+        ]
+      },
+      {
+        "title": "Senior Manager, Solution Engineering EMEA",
+        "company": "Sanity",
+        "location": "London, UK",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/sanity/senior-manager-solution-engineering-emea-london-uk-378808",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-03",
+        "remote": false,
+        "tags": [
+          "Customer Solutions"
+        ]
+      },
+      {
+        "title": "Product Manager - Payments",
+        "company": "ThriveCart",
+        "location": "London",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/thrivecart/product-manager-payments-london-331375",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-03",
+        "remote": true,
+        "tags": [
+          "Remote",
+          "Product Management"
+        ]
+      },
+      {
+        "title": "Senior Data Scientist",
+        "company": "Monzoreferrals",
+        "location": "Cardiff",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-data-scientist-cardiff-219726",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-03",
+        "remote": false,
+        "tags": [
+          "Data"
+        ]
+      },
+      {
+        "title": "AI Product Owner - Leeds",
+        "company": "Legal 500",
+        "location": "Leeds",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-500/ai-product-owner-leeds-148802",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-03",
+        "remote": false,
+        "tags": [
+          "Finance & Operations"
+        ]
+      },
+      {
+        "title": "Product Manager, Crypto Asset Management",
+        "company": "MoonPay",
+        "location": "London - Hybrid",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/product-manager-crypto-asset-management-london-hybrid-386040",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-03",
+        "remote": false,
+        "tags": [
+          "Product"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer, Full-Stack",
+        "company": "Ripple",
+        "location": "London",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-software-engineer-full-stack-london-247377",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-03",
+        "remote": false,
+        "tags": [
+          "Engineering"
+        ]
+      },
+      {
+        "title": "Senior Independent AI Engineer / Architect",
+        "company": "A.Team",
+        "location": "Americas, Europe, Israel",
+        "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+        "source": "Remotive",
+        "posted_date": "2026-08-16",
+        "remote": true,
+        "tags": [
+          "go",
+          "UI/UX",
+          "wordpress",
+          "chat",
+          "apple",
+          "testing",
+          "catalyst"
+        ]
+      }
+    ]
+  }
+}

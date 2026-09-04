@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI for PMs — Upskilling Hub &amp; CV Toolkit</title>
+<meta name="description" content="An interactive, auto-updating hub for Product Managers upskilling in AI: skill framework, learning roadmap, curated resources, live job feed, and an ATS/STAR CV coach." />
+<link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <span class="brand-mark">AI</span>
+        <div>
+          <div class="brand-title">AI for Product Managers</div>
+          <div class="brand-sub">Upskilling Hub &amp; CV Toolkit</div>
+        </div>
+      </div>
+      <div class="status" id="status-badge">Loading data…</div>
+    </div>
+    <nav class="tabs" id="tabs">
+      <button class="tab active" data-tab="overview">Overview</button>
+      <button class="tab" data-tab="skills">Skill Framework</button>
+      <button class="tab" data-tab="roadmap">Roadmap</button>
+      <button class="tab" data-tab="resources">Resources</button>
+      <button class="tab" data-tab="jobs">Jobs</button>
+      <button class="tab" data-tab="cv">CV Toolkit</button>
+    </nav>
+  </header>
+
+  <main id="app">
+
+    <!-- OVERVIEW -->
+    <section id="panel-overview" class="panel active">
+      <div class="card hero">
+        <h1>Stay relevant as an AI-era PM</h1>
+        <p>This hub compiles the AI skills, learning resources, live job market, and CV craft a Product Manager needs to upskill for AI &mdash; kept current with a daily automated refresh of job listings.</p>
+        <div class="hero-grid">
+          <a class="hero-card" data-goto="skills">
+            <h3>1. Know the bar</h3>
+            <p>8 core AI PM competencies, with a self-assessment.</p>
+          </a>
+          <a class="hero-card" data-goto="roadmap">
+            <h3>2. Follow the roadmap</h3>
+            <p>An 8-week, hands-on curriculum — not just reading links.</p>
+          </a>
+          <a class="hero-card" data-goto="resources">
+            <h3>3. Go deep</h3>
+            <p>Curated newsletters, YouTube channels, courses &amp; books.</p>
+          </a>
+          <a class="hero-card" data-goto="jobs">
+            <h3>4. Watch the market</h3>
+            <p>Curated snapshot + a live, auto-refreshed job feed.</p>
+          </a>
+          <a class="hero-card" data-goto="cv">
+            <h3>5. Ship a killer CV</h3>
+            <p>ATS/Workday rulebook, STAR bullet coach &amp; full-CV verifier.</p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- SKILLS -->
+    <section id="panel-skills" class="panel">
+      <h2>The AI Product Manager Skill Framework</h2>
+      <p class="muted" id="skills-source"></p>
+      <div id="skills-grid" class="grid"></div>
+      <div class="card">
+        <h3>Self-assessment</h3>
+        <p class="muted">Rate yourself 1 (none) – 5 (expert). Anything below 3 is a priority.</p>
+        <div id="self-assessment"></div>
+      </div>
+    </section>
+
+    <!-- ROADMAP -->
+    <section id="panel-roadmap" class="panel">
+      <h2 id="roadmap-title">8-Week AI PM Learning Roadmap</h2>
+      <p class="muted" id="roadmap-intro"></p>
+      <div id="roadmap-phases"></div>
+      <div class="card" id="roadmap-after-card">
+        <h3>After Week 8</h3>
+        <p id="roadmap-after"></p>
+      </div>
+    </section>
+
+    <!-- RESOURCES -->
+    <section id="panel-resources" class="panel">
+      <h2>Curated Resource Library</h2>
+      <div class="subtabs" id="resource-subtabs">
+        <button class="subtab active" data-sub="newsletters">Newsletters</button>
+        <button class="subtab" data-sub="youtube">YouTube</button>
+        <button class="subtab" data-sub="courses">Courses</button>
+        <button class="subtab" data-sub="books">Books</button>
+        <button class="subtab" data-sub="communities">Communities</button>
+        <button class="subtab" data-sub="tools">Tools</button>
+      </div>
+      <div id="resource-content"></div>
+    </section>
+
+    <!-- JOBS -->
+    <section id="panel-jobs" class="panel">
+      <h2>AI Product Manager Jobs</h2>
+      <p class="muted" id="jobs-live-meta"></p>
+      <div class="subtabs" id="jobs-subtabs">
+        <button class="subtab active" data-sub="live">Live feed (auto-updated)</button>
+        <button class="subtab" data-sub="india">Curated: India</button>
+        <button class="subtab" data-sub="global">Curated: Global</button>
+      </div>
+      <div id="jobs-content"></div>
+      <div class="card">
+        <h3>Keep monitoring</h3>
+        <div id="jobs-saved-searches"></div>
+      </div>
+    </section>
+
+    <!-- CV TOOLKIT -->
+    <section id="panel-cv" class="panel">
+      <h2 id="cv-title">The AI-Era PM CV Rulebook</h2>
+      <p class="muted" id="cv-subtitle"></p>
+
+      <div class="subtabs" id="cv-subtabs">
+        <button class="subtab active" data-sub="rulebook">Rulebook</button>
+        <button class="subtab" data-sub="bullet">Bullet Coach (STAR)</button>
+        <button class="subtab" data-sub="verifier">Full CV Verifier</button>
+      </div>
+
+      <!-- Rulebook -->
+      <div id="cv-rulebook" class="cv-sub active">
+        <div class="card" id="star-card"></div>
+        <h3>Formatting rules (ATS / Workday)</h3>
+        <div id="cv-formatting-rules" class="grid"></div>
+        <h3>Content rules</h3>
+        <div id="cv-content-rules" class="grid"></div>
+        <h3>Master checklist</h3>
+        <ul id="cv-checklist" class="checklist"></ul>
+      </div>
+
+      <!-- Bullet coach -->
+      <div id="cv-bullet" class="cv-sub">
+        <div class="card">
+          <label for="bullet-input"><strong>Paste one CV bullet point or a plain statement</strong></label>
+          <textarea id="bullet-input" rows="3" placeholder="e.g. Responsible for working on AI features for the support team"></textarea>
+          <div class="row">
+            <button id="bullet-analyze" class="btn primary">Analyze &amp; rewrite</button>
+            <span class="muted">Free, rule-based, runs entirely in your browser.</span>
+          </div>
+          <div id="bullet-result"></div>
+        </div>
+        <div class="card" id="llm-card">
+          <h3>Optional: higher-quality rewrite with your own AI API key</h3>
+          <p class="muted">Your key is stored only in this browser (localStorage) and sent directly to the provider — never to us or any third server.</p>
+          <div class="row wrap">
+            <select id="llm-provider">
+              <option value="openai">OpenAI (gpt-4o-mini)</option>
+              <option value="anthropic">Anthropic (Claude Haiku)</option>
+              <option value="gemini">Google (Gemini 1.5 Flash)</option>
+            </select>
+            <input id="llm-key" type="password" placeholder="Paste API key" />
+            <button id="llm-save" class="btn">Save key locally</button>
+            <button id="llm-clear" class="btn danger">Clear key</button>
+          </div>
+          <div class="row">
+            <button id="llm-generate" class="btn primary">Generate with AI</button>
+            <span id="llm-status" class="muted"></span>
+          </div>
+          <div id="llm-result"></div>
+        </div>
+      </div>
+
+      <!-- Verifier -->
+      <div id="cv-verifier" class="cv-sub">
+        <div class="card">
+          <label for="cv-input"><strong>Paste your full CV text</strong> (or upload a .docx / .pdf / .txt below)</label>
+          <textarea id="cv-input" rows="10" placeholder="Paste your CV text here…"></textarea>
+          <div class="row wrap">
+            <input type="file" id="cv-file" accept=".docx,.pdf,.txt" />
+            <span id="cv-file-status" class="muted"></span>
+          </div>
+          <label for="jd-input" style="margin-top:12px;"><strong>Optional: paste target job description</strong> for keyword-match scoring</label>
+          <textarea id="jd-input" rows="4" placeholder="Paste the job description here…"></textarea>
+          <div class="row">
+            <button id="cv-verify" class="btn primary">Verify CV</button>
+          </div>
+        </div>
+        <div id="cv-verify-result"></div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <span id="footer-updated"></span>
+    <span> · Data refreshes daily via GitHub Actions.</span>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/mammoth@1.8.0/mammoth.browser.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.min.js" defer></script>
+  <script src="assets/cv-engine.js" defer></script>
+  <script src="assets/llm.js" defer></script>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

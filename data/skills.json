@@ -1,0 +1,25 @@
+{
+  "title": "The AI Product Manager Skill Framework (2026)",
+  "source_note": "Synthesized from industry write-ups (IIT Kanpur PM knowledge hub, LinkedIn practitioner guides, fonzi.ai) and live AI PM job-description analysis.",
+  "competencies": [
+    { "id": 1, "title": "AI & Machine Learning Fundamentals", "tag": "F", "description": "Understand supervised vs. unsupervised vs. reinforcement learning, what a neural network/transformer is, how LLMs are trained (pre-training → fine-tuning → RLHF/DPO), embeddings, and basic model-evaluation metrics (precision/recall, accuracy, perplexity, hallucination rate). This vocabulary lets you sit in a design review with ML engineers and ask the right questions." },
+    { "id": 2, "title": "Product Lifecycle Management for AI", "tag": "S", "description": "AI products need continuous data pipelines, retraining, drift monitoring, and MLOps. Your PRDs need new sections: data requirements, model evaluation criteria, feedback-loop design, fallback/guardrail behavior, and a post-launch model-monitoring plan." },
+    { "id": 3, "title": "Data Literacy & Strategy", "tag": "D", "description": "Understand data collection, labeling/annotation, cleaning, storage, and governance well enough to make tradeoff calls (e.g., enough labeled data to justify fine-tuning vs. RAG/prompting). Data quality is now a product requirement, not just an engineering concern." },
+    { "id": 4, "title": "Product Thinking & Strategic Vision", "tag": "S", "description": "Defining the user problem, prioritizing by impact, and aligning AI capability to business outcomes — while resisting 'AI for AI's sake'. The best AI PMs kill more AI feature ideas than they ship." },
+    { "id": 5, "title": "Technical Awareness of LLM Systems", "tag": "T", "description": "Practical grasp of LLM architectures conceptually, context windows, prompting vs. fine-tuning vs. RAG vs. agents, token cost/latency tradeoffs, and why outputs are probabilistic. Lets you scope realistic AI features instead of ones that only sound good in a slide." },
+    { "id": 6, "title": "Experimentation & Evaluation", "tag": "T", "description": "Design experiments and build 'evals' — structured test sets that measure whether the AI is doing its job (accuracy, relevance, safety, tone). Monitor for model drift and quality regressions the same way you'd monitor uptime." },
+    { "id": 7, "title": "Ethical & Responsible AI", "tag": "E", "description": "Fairness, transparency, explainability, bias mitigation, privacy, and regulatory awareness (EU AI Act, India's DPDP Act, sector rules in health/finance). Designed in at the PRD stage, not bolted on before launch." },
+    { "id": 8, "title": "Communication & Cross-functional Collaboration", "tag": "S", "description": "Translate between data scientists, ML engineers, legal/compliance, and business stakeholders. Set realistic expectations about what AI can/can't do reliably, and manage the 'it demoed great, why doesn't it work in production' gap." }
+  ],
+  "tag_legend": { "F": "Fundamentals", "T": "Technical/LLM", "S": "Strategy/Craft", "E": "Ethics/Responsible AI", "D": "Data" },
+  "self_assessment": [
+    "AI/ML fundamentals & vocabulary",
+    "AI-specific product lifecycle & MLOps awareness",
+    "Data literacy (collection → governance)",
+    "AI-adjusted product strategy & prioritization",
+    "LLM/agent technical fluency (prompting, RAG, fine-tuning, agents)",
+    "Experimentation & evals design",
+    "Responsible AI / governance",
+    "Cross-functional AI communication"
+  ]
+}

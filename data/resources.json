@@ -1,0 +1,48 @@
+{
+  "newsletters": [
+    { "name": "One Useful Thing", "author": "Ethan Mollick (Wharton)", "focus": "Rigorous, practical experiments with AI models — the best 'how AI actually behaves' source for non-engineers.", "tags": ["F", "S"], "url": "https://www.oneusefulthing.org/" },
+    { "name": "Product Compass", "author": "Pawel Huryn", "focus": "Largest AI-focused product management newsletter; frameworks, PRD templates, AI PM interview prep.", "tags": ["S", "T"], "url": "https://www.productcompass.pm/" },
+    { "name": "Lenny's Newsletter", "author": "Lenny Rachitsky", "focus": "Broad PM newsletter with a growing library of deep AI-PM interviews and playbooks.", "tags": ["S"], "url": "https://www.lennysnewsletter.com/" },
+    { "name": "Product Growth", "author": "Aakash Gupta", "focus": "AI PM-specific playbooks, case studies, and courses.", "tags": ["S", "T"], "url": "https://www.news.aakashg.com/" },
+    { "name": "Interconnects", "author": "Nathan Lambert (Allen Institute for AI)", "focus": "Deep, technically rigorous coverage of frontier model training (RLHF, DPO, scaling laws).", "tags": ["T", "F"], "url": "https://www.interconnects.ai/" },
+    { "name": "Latent Space", "author": "swyx & Alessio", "focus": "AI engineering news roundups and technical interviews — speaks the engineers' language.", "tags": ["T"], "url": "https://www.latent.space/" },
+    { "name": "Import AI", "author": "Jack Clark (Anthropic co-founder)", "focus": "Weekly AI research and policy roundup.", "tags": ["F", "E"], "url": "https://importai.substack.com/" },
+    { "name": "Stratechery", "author": "Ben Thompson", "focus": "Strategic/business analysis of tech and AI shifts.", "tags": ["S"], "url": "https://stratechery.com/" },
+    { "name": "Marily Nika's newsletter", "author": "Marily Nika (ex-Google/Meta AI PM)", "focus": "AI PM career and craft advice from a practitioner; author of 'Building AI-Powered Products'.", "tags": ["S", "T"], "url": "" }
+  ],
+  "youtube": [
+    { "channel": "Lenny's Podcast", "best_for": "Long-form interviews with PM leaders, increasingly AI-focused." },
+    { "channel": "Aakash Gupta / Product Growth", "best_for": "AI PM tactics, tool walkthroughs." },
+    { "channel": "DeepLearning.AI", "best_for": "Short-course companion videos — best free technical grounding for non-engineers." },
+    { "channel": "Exponent", "best_for": "PM interview prep including AI/ML PM interview questions." },
+    { "channel": "Product School", "best_for": "AI PM webinars and panel discussions." },
+    { "channel": "a16z", "best_for": "Investor-level talks with AI founders/researchers on market direction." },
+    { "channel": "Sequoia Capital", "best_for": "'AI Ascent' conference talks — market-level AI trends." },
+    { "channel": "Y Combinator", "best_for": "Startup School talks, several on building AI products." }
+  ],
+  "courses": [
+    { "name": "Generative AI for Everyone", "provider": "DeepLearning.AI (Andrew Ng)", "notes": "Free/low-cost, no-code conceptual foundation — start here." },
+    { "name": "ChatGPT Prompt Engineering for Developers", "provider": "DeepLearning.AI", "notes": "Free, ~1.5 hrs, hands-on prompting fundamentals." },
+    { "name": "Building Systems with the ChatGPT API", "provider": "DeepLearning.AI", "notes": "Free, shows how multi-step AI systems (like agents) are built." },
+    { "name": "Microsoft AI Product Manager Professional Certificate", "provider": "Coursera", "notes": "Structured, credentialed, employer-recognized cert path." },
+    { "name": "Product Management with AI (Professional Certificate)", "provider": "ISB Online (Indian School of Business)", "notes": "India-specific, cohort-based, good for career switchers." },
+    { "name": "Applied AI/Product cohort courses", "provider": "Reforge", "notes": "Practitioner-led, cohort-based, most rigorous but paid/time-boxed." },
+    { "name": "AI Product Management cohorts", "provider": "Maven", "notes": "Marketplace of live cohorts taught by working AI PMs — vet the instructor before enrolling." }
+  ],
+  "books": [
+    { "title": "Building AI-Powered Products", "author": "Marily Nika" },
+    { "title": "Inspired", "author": "Marty Cagan", "notes": "Foundational PM thinking, still the base layer under any AI specialization." },
+    { "title": "Prediction Machines", "author": "Ajay Agrawal, Joshua Gans, Avi Goldfarb", "notes": "Economics of AI decision-making — good for strategy framing." }
+  ],
+  "communities": [
+    "Sequoia Capital 'AI Ascent' (annual, talks published on YouTube)",
+    "Local/virtual Product Management + AI meetups (search Meetup.com / Luma)",
+    "Reforge and Maven cohort alumni Slack/Discord communities"
+  ],
+  "tools": [
+    { "category": "Prompting/chat", "items": ["ChatGPT", "Claude", "Gemini"] },
+    { "category": "RAG/no-code AI", "items": ["NotebookLM", "Retool AI", "Bubble + OpenAI API"] },
+    { "category": "Agents/automation", "items": ["n8n", "Zapier AI", "LangChain templates"] },
+    { "category": "Analytics/evals", "items": ["Spreadsheet for manual eval sets", "Dedicated eval tooling once mechanics are understood"] }
+  ]
+}

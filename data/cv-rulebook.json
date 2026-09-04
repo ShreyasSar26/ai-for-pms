@@ -1,0 +1,76 @@
+{
+  "title": "The AI-Era PM CV Rulebook",
+  "subtitle": "ATS & Workday-compliant formatting rules + the STAR framework for writing bullet points, compiled from current ATS/Workday guidance.",
+  "compiled": "2026-09-04",
+  "star_framework": {
+    "name": "STAR",
+    "description": "Every strong resume bullet should compress a STAR story into one line. On a CV, Situation/Task are often implied by the role and role context, so the visible bullet usually leads with Action and always ends with a quantified Result.",
+    "components": [
+      { "key": "situation", "label": "Situation", "guidance": "The context or problem you faced. Often implied by your job title/section on a resume — spell it out only if it adds critical context (e.g., 'During a 40% YoY drop in activation...')." },
+      { "key": "task", "label": "Task", "guidance": "What you were responsible for or what needed to happen. Usually folded into the Action clause on a resume bullet." },
+      { "key": "action", "label": "Action", "guidance": "The specific thing YOU did — always lead with a strong, specific action verb. Avoid vague verbs like 'worked on' or 'helped with'." },
+      { "key": "result", "label": "Result", "guidance": "The quantified outcome: %, $, time saved, users impacted, retention/NPS/revenue change. If you truly cannot quantify, describe the qualitative business outcome (e.g., 'unblocking Series B due diligence')." }
+    ],
+    "formula": "[Action Verb] + [What you built/led/changed] + [Method or tool, if relevant] + [Quantified Result / business impact]",
+    "good_example": "Led discovery and launch of an LLM-based ticket-triage feature, cutting average support resolution time by 32% (4.1 → 2.8 hrs) across a 40-person support org.",
+    "weak_example": "Responsible for working on AI features for the support team and helping improve response times."
+  },
+  "formatting_rules": [
+    { "id": "single-column", "rule": "Use a single-column, linear layout.", "why": "Workday and most ATS parsers read left-to-right, top-to-bottom. Multi-column layouts, text boxes, and tables get scrambled or dropped entirely.", "severity": "critical" },
+    { "id": "standard-headings", "rule": "Use standard section headings: 'Professional Experience' (or 'Work Experience'), 'Education', 'Skills', 'Summary', 'Certifications'.", "why": "ATS field-mapping looks for these exact/near-exact headings. Creative headings like 'My Journey' or 'What I Bring' may not map to the right resume field.", "severity": "critical" },
+    { "id": "no-graphics", "rule": "Avoid photos, icons, logos, charts, and skill-rating graphics (e.g., star/bar ratings).", "why": "Images are invisible to ATS text parsers and can cause parsing errors or push the ATS to reject the file outright.", "severity": "critical" },
+    { "id": "no-headers-footers", "rule": "Keep contact info (name, phone, email, LinkedIn) in the main document body, not in a header/footer.", "why": "Many ATS engines (including some Workday configurations) don't reliably parse headers/footers, so your contact details can silently vanish.", "severity": "high" },
+    { "id": "standard-fonts", "rule": "Use a common, ATS-safe font (Arial, Calibri, Garamond, Georgia, Helvetica) at 10–12pt body / 14–16pt name.", "why": "Decorative or embedded custom fonts may not render/parse correctly and can look broken once converted to plain text.", "severity": "medium" },
+    { "id": "file-format", "rule": "Save/export as .docx unless the posting explicitly asks for PDF; if PDF, use a text-based (not scanned/image) PDF.", "why": "Workday and many ATS platforms parse .docx most reliably. Image-based PDFs can't be parsed at all.", "severity": "high" },
+    { "id": "file-naming", "rule": "Name the file 'FirstName_LastName_Resume.docx' (or similar) — no special characters, emojis, or version tags like 'FINAL_v3'.", "why": "Clean file names parse better and look more professional to a recruiter opening it after ATS screening.", "severity": "low" },
+    { "id": "reverse-chronological", "rule": "Use reverse-chronological order within each section (most recent first).", "why": "This is the format ATS parsers and recruiters expect by default; functional/skills-first formats often confuse date-field parsing.", "severity": "medium" },
+    { "id": "consistent-dates", "rule": "Use a single, consistent date format throughout (e.g., 'Jan 2023 – Present').", "why": "Inconsistent date formats can break ATS date-range parsing used for experience-length filters.", "severity": "medium" },
+    { "id": "standard-bullets", "rule": "Use simple round or square bullet characters (•, -). Avoid custom icon bullets or emoji.", "why": "Non-standard bullet glyphs can render as garbled characters (e.g., '?' or boxes) once parsed as plain text.", "severity": "low" },
+    { "id": "no-tables", "rule": "Don't use tables for laying out experience or skills.", "why": "Table cell order is often read out of sequence by ATS parsers, scrambling your work history.", "severity": "critical" }
+  ],
+  "content_rules": [
+    { "id": "star-bullets", "rule": "Write every bullet in STAR form, leading with a strong action verb and ending with a quantified result.", "why": "Recruiters and hiring managers spend ~6–8 seconds on first pass; quantified impact is what gets a bullet re-read." },
+    { "id": "no-weak-openers", "rule": "Never open a bullet with 'Responsible for', 'Worked on', 'Helped with', 'Involved in', 'Duties included', or 'Assisted'.", "why": "These describe a job description, not an accomplishment, and read as passive/low-ownership to both ATS keyword scoring and humans." },
+    { "id": "quantify-everything", "rule": "Quantify at least 70–80% of your bullets: %, $, time, users, NPS/CSAT, headcount, model accuracy, latency, etc.", "why": "Numbers are the fastest proxy for impact a reader (human or AI-assisted recruiter tool) uses to rank candidates." },
+    { "id": "no-first-person", "rule": "Never use 'I', 'me', 'my', or 'we' — resume bullets are implied first-person.", "why": "Standard resume convention; explicit pronouns read as unpolished and waste character budget." },
+    { "id": "avoid-buzzword-only-claims", "rule": "Don't rely on unproven adjectives alone ('detail-oriented', 'hardworking', 'team player', 'results-driven', 'synergy').", "why": "These are unverifiable and heavily overused; if you must use one, immediately back it with a concrete example." },
+    { "id": "mirror-jd-keywords", "rule": "Mirror the exact keywords/phrases from the target job description (tool names, methodologies, certifications) wherever true.", "why": "Workday and most ATS platforms rank/filter candidates by keyword match against the JD; synonyms often aren't credited." },
+    { "id": "spell-out-acronyms-once", "rule": "Spell out an acronym on first use, e.g., 'Retrieval-Augmented Generation (RAG)'.", "why": "Some ATS keyword search is literal; spelling it out once covers both the acronym and full-term searches." },
+    { "id": "one-page-per-decade", "rule": "Aim for 1 page (<8 yrs experience) to 2 pages (8+ yrs). Never 3+.", "why": "Recruiter attention and many ATS previews degrade sharply past 2 pages; ruthlessly cut low-impact bullets instead." },
+    { "id": "bullet-length", "rule": "Keep each bullet to roughly 1–2 lines (~15–30 words).", "why": "Long bullets bury the result; short, fragment-only bullets (<8 words) look thin on evidence." }
+  ],
+  "ai_pm_specific_keywords": [
+    "LLM", "Large Language Model", "RAG", "Retrieval-Augmented Generation", "Prompt Engineering",
+    "Fine-tuning", "AI Agents", "MLOps", "Model Evaluation", "Evals", "A/B Testing", "Responsible AI",
+    "AI Governance", "Generative AI", "Machine Learning", "Data Pipeline", "Product Roadmap",
+    "Cross-functional Leadership", "Go-to-Market", "0-to-1", "Stakeholder Management"
+  ],
+  "action_verbs": {
+    "leadership": ["Led", "Spearheaded", "Orchestrated", "Directed", "Championed", "Owned", "Drove"],
+    "build_ship": ["Launched", "Shipped", "Architected", "Built", "Piloted", "Delivered", "Deployed"],
+    "improve_optimize": ["Streamlined", "Optimized", "Automated", "Accelerated", "Reduced", "Cut", "Scaled"],
+    "grow_increase": ["Increased", "Grew", "Expanded", "Boosted", "Doubled", "Unlocked"],
+    "analyze_decide": ["Analyzed", "Prioritized", "Evaluated", "Quantified", "Modeled", "Forecasted"],
+    "influence_align": ["Negotiated", "Aligned", "Partnered", "Influenced", "Facilitated", "Unblocked"]
+  },
+  "weak_verbs_to_replace": [
+    "responsible for", "worked on", "helped with", "involved in", "duties included",
+    "assisted", "participated in", "in charge of", "tasked with", "handled"
+  ],
+  "master_checklist": [
+    "Single-column layout, no tables/text boxes/graphics",
+    "Standard section headings (Professional Experience, Education, Skills)",
+    "Contact info in the document body, not header/footer",
+    "ATS-safe font, 10–12pt body",
+    "Saved as .docx (or text-based PDF if explicitly requested)",
+    "Clean file name: FirstName_LastName_Resume",
+    "Reverse-chronological order, consistent date format",
+    "Every bullet in Action → Method → Quantified Result form",
+    "No 'Responsible for' / 'Worked on' / other weak openers",
+    "70–80%+ of bullets contain a number",
+    "No first-person pronouns",
+    "Keywords mirror the target job description",
+    "Acronyms spelled out on first use",
+    "1–2 pages total, no 3+ page resumes"
+  ]
+}

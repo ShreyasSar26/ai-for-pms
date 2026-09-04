@@ -1,0 +1,37 @@
+name: Daily data refresh
+
+on:
+  schedule:
+    # 03:17 UTC daily
+    - cron: "17 3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-jobs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch latest AI PM job listings
+        run: node scripts/fetch-jobs.mjs
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/jobs.json; then
+            echo "No changes to data/jobs.json"
+          else
+            git add data/jobs.json
+            git commit -m "chore: daily job data refresh"
+            git push
+          fi

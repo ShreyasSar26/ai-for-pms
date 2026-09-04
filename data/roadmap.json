@@ -1,0 +1,83 @@
+{
+  "title": "8-Week AI PM Learning Roadmap",
+  "intro": "Designed for ~4–6 hours/week alongside a full-time PM job. Each week has a Do (hands-on, non-negotiable) and a Consume (reading/watching, ~2 hrs) list.",
+  "phases": [
+    {
+      "name": "Phase 1 — AI Literacy",
+      "weeks": [
+        {
+          "week": 1,
+          "title": "How LLMs actually work",
+          "do": "Create accounts on ChatGPT, Claude, and Gemini. Run the same 5 prompts across all three and log differences in tone, accuracy, and refusals in a simple spreadsheet.",
+          "consume": "Andrej Karpathy's 'Intro to Large Language Models' (YouTube); DeepLearning.AI 'Generative AI for Everyone' (Week 1 module).",
+          "outcome": "You can explain tokens, context windows, and why the same prompt gives different answers."
+        },
+        {
+          "week": 2,
+          "title": "The AI product landscape",
+          "do": "Pick 3 AI products you use (e.g., Notion AI, GitHub Copilot, Perplexity) and write a 1-page teardown each: core AI capability, where it fails, how errors/fallbacks are handled.",
+          "consume": "Subscribe to One Useful Thing (Ethan Mollick), read the last 5 posts; skim a Latent Space 'state of AI' roundup.",
+          "outcome": "A mental map of what 'good' AI UX looks like, and common failure patterns."
+        }
+      ]
+    },
+    {
+      "name": "Phase 2 — Technical Fluency",
+      "weeks": [
+        {
+          "week": 3,
+          "title": "Prompting & RAG",
+          "do": "Complete DeepLearning.AI's 'ChatGPT Prompt Engineering for Developers' (free, ~1.5 hrs). Build a prompt template + a simple RAG Q&A over a PDF using a no-code tool (e.g., NotebookLM).",
+          "consume": "Read a primer on RAG vs. fine-tuning vs. prompting tradeoffs from a reputable ML blog.",
+          "outcome": "You can correctly recommend prompting vs. RAG vs. fine-tuning for a given use case in a design review."
+        },
+        {
+          "week": 4,
+          "title": "Agents & evaluation",
+          "do": "Build a simple multi-step agent (n8n, Zapier AI, or a LangChain template) chaining 2–3 actions. Write 10 test cases (an 'eval set') and manually score outputs.",
+          "consume": "Interconnects (Nathan Lambert) — one deep post on model training/evals; explore Reforge/Maven syllabi for evaluation frameworks.",
+          "outcome": "You understand what an 'eval' is and can design one — one of the most in-demand AI PM skills right now."
+        }
+      ]
+    },
+    {
+      "name": "Phase 3 — AI Product Craft",
+      "weeks": [
+        {
+          "week": 5,
+          "title": "Writing AI-native PRDs",
+          "do": "Rewrite a past (non-AI) PRD as an AI feature: add data requirements, model/prompt rationale, evaluation criteria, guardrails/fallback UX, and a monitoring plan.",
+          "consume": "Lenny's Newsletter AI-PM posts and Aakash Gupta's (Product Growth) AI PM playbooks.",
+          "outcome": "A portfolio-ready AI PRD template you can reuse."
+        },
+        {
+          "week": 6,
+          "title": "Responsible AI & data strategy",
+          "do": "Audit an AI feature for bias/fairness/privacy risk using a simple checklist (data provenance, consent, explainability, human-override path). Draft a one-page 'Responsible AI checklist'.",
+          "consume": "Skim the EU AI Act risk-tiers summary and India's DPDP Act overview (official/reputable sources); read one responsible-AI case study.",
+          "outcome": "You can proactively flag ethical/compliance risk in a product review."
+        }
+      ]
+    },
+    {
+      "name": "Phase 4 — Proof of Work",
+      "weeks": [
+        {
+          "week": 7,
+          "title": "Build a small AI feature end-to-end",
+          "do": "Using a no-code/low-code AI builder (Bubble + OpenAI API, Retool AI, Voiceflow), ship one small working AI feature end-to-end, including a basic eval and usage dashboard.",
+          "consume": "Watch 2–3 case-study videos of AI PMs describing how they scoped/shipped AI features.",
+          "outcome": "A working, demoable AI feature you built yourself."
+        },
+        {
+          "week": 8,
+          "title": "Portfolio & positioning",
+          "do": "Compile Weeks 1–7 outputs into a portfolio: 1 AI product teardown, 1 AI PRD, 1 eval set, 1 responsible-AI checklist, 1 shipped mini-feature with a demo. Update LinkedIn/resume with real AI PM job-description keywords.",
+          "consume": "Re-read the self-assessment checklist and re-score yourself.",
+          "outcome": "A tangible, interview-ready portfolio plus a resume tuned to what employers actually ask for."
+        }
+      ]
+    }
+  ],
+  "after": "Block 30 min/week for your top 2–3 newsletters, ship one small AI-touchpoint experiment per quarter, and re-run the self-assessment every quarter."
+}

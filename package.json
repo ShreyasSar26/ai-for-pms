@@ -1,0 +1,10 @@
+{
+  "name": "ai-for-pms-hub",
+  "private": true,
+  "type": "module",
+  "description": "Interactive AI-for-PMs upskilling hub, live job feed, and ATS/STAR CV toolkit.",
+  "scripts": {
+    "fetch-jobs": "node scripts/fetch-jobs.mjs",
+    "serve": "npx serve -l 5500 ."
+  }
+}
