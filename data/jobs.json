@@ -190,12 +190,50 @@
     ]
   },
   "live_feed": {
-    "generated_at": "2026-09-04T06:07:09.831Z",
+    "generated_at": "2026-09-04T08:49:29.843Z",
     "sources": [
       "Remotive API",
       "Arbeitnow API"
     ],
     "jobs": [
+      {
+        "title": "Senior Typescript Developer (f/m/d)",
+        "company": "Sidestream",
+        "location": "Cologne",
+        "url": "https://www.arbeitnow.com/jobs/companies/sidestream/senior-typescript-developer-cologne-100134",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-04",
+        "remote": true,
+        "tags": [
+          "Remote",
+          "Software Development"
+        ]
+      },
+      {
+        "title": "Sidebase Open-Source Contributor & Senior TS Dev (f/m/d)",
+        "company": "Sidestream",
+        "location": "Cologne",
+        "url": "https://www.arbeitnow.com/jobs/companies/sidestream/sidebase-open-source-contributor-senior-ts-dev-cologne-442550",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-04",
+        "remote": true,
+        "tags": [
+          "Remote",
+          "Software Development"
+        ]
+      },
+      {
+        "title": "Senior Application Product Manager - Supply Chain - Procurement",
+        "company": "celonis",
+        "location": "Munich",
+        "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-application-product-manager-supply-chain-procurement-munich-95849",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-04",
+        "remote": false,
+        "tags": [
+          "Product Business Apps"
+        ]
+      },
       {
         "title": "Product Manager, BSG (m/f/d)",
         "company": "autoscout24",
@@ -255,48 +293,6 @@
         "tags": [
           "Backend"
         ]
-      },
-      {
-        "title": "Account Executive – New Business",
-        "company": "Fiskaly",
-        "location": "Berlin, Berlin",
-        "url": "https://www.arbeitnow.com/jobs/companies/fiskaly/account-executive-new-business-berlin-berlin-353654",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-03",
-        "remote": false,
-        "tags": [
-          "Sales"
-        ]
-      },
-      {
-        "title": "Senior Java Engineer (m/f/d) - Team Search",
-        "company": "Flix",
-        "location": "Berlin, Germany",
-        "url": "https://www.arbeitnow.com/jobs/companies/flix/senior-java-engineer-team-search-berlin-139280",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-03",
-        "remote": false,
-        "tags": []
-      },
-      {
-        "title": "Senior Product Manager (Giftcard)",
-        "company": "Atolls",
-        "location": "Berlin, Germany",
-        "url": "https://www.arbeitnow.com/jobs/companies/atolls/senior-product-manager-giftcard-berlin-190872",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-03",
-        "remote": false,
-        "tags": []
-      },
-      {
-        "title": "Senior Product Manager (Giftcard)",
-        "company": "Atolls",
-        "location": "Munich, Bavaria, Germany",
-        "url": "https://www.arbeitnow.com/jobs/companies/atolls/senior-product-manager-giftcard-munich-4791",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-03",
-        "remote": false,
-        "tags": []
       },
       {
         "title": "Senior Product Manager (Giftcard)",
@@ -391,18 +387,6 @@
         "remote": false,
         "tags": [
           "Product"
-        ]
-      },
-      {
-        "title": "Senior Software Engineer, Full-Stack",
-        "company": "Ripple",
-        "location": "London",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/ripple/senior-software-engineer-full-stack-london-247377",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-03",
-        "remote": false,
-        "tags": [
-          "Engineering"
         ]
       },
       {
