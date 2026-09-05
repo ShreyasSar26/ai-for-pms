@@ -190,203 +190,200 @@
     ]
   },
   "live_feed": {
-    "generated_at": "2026-09-04T08:49:29.843Z",
+    "generated_at": "2026-09-05T07:41:39.499Z",
     "sources": [
       "Remotive API",
       "Arbeitnow API"
     ],
     "jobs": [
       {
-        "title": "Senior Typescript Developer (f/m/d)",
-        "company": "Sidestream",
-        "location": "Cologne",
-        "url": "https://www.arbeitnow.com/jobs/companies/sidestream/senior-typescript-developer-cologne-100134",
+        "title": "FullStack Engineer - Prospect UI Solutions",
+        "company": "Constructor",
+        "location": "Remote",
+        "url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-ui-solutions-munich-415043",
         "source": "Arbeitnow",
-        "posted_date": "2026-09-04",
-        "remote": true,
-        "tags": [
-          "Remote",
-          "Software Development"
-        ]
-      },
-      {
-        "title": "Sidebase Open-Source Contributor & Senior TS Dev (f/m/d)",
-        "company": "Sidestream",
-        "location": "Cologne",
-        "url": "https://www.arbeitnow.com/jobs/companies/sidestream/sidebase-open-source-contributor-senior-ts-dev-cologne-442550",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-04",
-        "remote": true,
-        "tags": [
-          "Remote",
-          "Software Development"
-        ]
-      },
-      {
-        "title": "Senior Application Product Manager - Supply Chain - Procurement",
-        "company": "celonis",
-        "location": "Munich",
-        "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-application-product-manager-supply-chain-procurement-munich-95849",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-04",
+        "posted_date": "2026-09-05",
         "remote": false,
         "tags": [
-          "Product Business Apps"
-        ]
-      },
-      {
-        "title": "Product Manager, BSG (m/f/d)",
-        "company": "autoscout24",
-        "location": "",
-        "url": "https://www.arbeitnow.com/jobs/companies/autoscout24/product-manager-bsg-376558",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-04",
-        "remote": false,
-        "tags": [
-          "Product & Design"
-        ]
-      },
-      {
-        "title": "Senior Strategist, Data & AI (Remote - US, UK, Nigeria, Ethiopia, India or Rwanda)",
-        "company": "Resolvetosavelives",
-        "location": "United States, Nigeria, Ethiopia, India or Rwanda",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/resolvetosavelives/senior-strategist-data-ai-remote-us-uk-nigeria-ethiopia-india-or-rwanda-united-states-nigeria-ethiopia-india-or-rwanda-298614",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-04",
-        "remote": false,
-        "tags": [
-          "Executive Office"
+          "Engineering"
         ]
       },
       {
         "title": "Senior Data Engineer",
-        "company": "Zoominfo",
-        "location": "London",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/zoominfo/senior-data-engineer-london-374837",
+        "company": "Liqid Lig",
+        "location": "Berlin",
+        "url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/senior-data-engineer-berlin-462279",
         "source": "Arbeitnow",
-        "posted_date": "2026-09-04",
+        "posted_date": "2026-09-05",
         "remote": false,
         "tags": [
-          "965 Product Management - AI & Strategy"
+          "Technology"
         ]
       },
       {
-        "title": "Product Management Director – Soft FM & Estates (UK)",
-        "company": "Singu",
-        "location": "UK",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/singu/product-management-director-soft-fm-estates-uk-186249",
+        "title": "Senior iOS Engineer - Swift (m|w|d)",
+        "company": "idealo internet GmbH",
+        "location": "Berlin, Berlin, Deutschland",
+        "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-ios-engineer-swift-mwd-berlin-330230",
         "source": "Arbeitnow",
-        "posted_date": "2026-09-04",
+        "posted_date": "2026-09-05",
         "remote": false,
         "tags": [
-          "UK&I"
+          "Technology & Data"
+        ]
+      },
+      {
+        "title": "Senior Footwear Designer (m/w/d)",
+        "company": "Pammys™ (dieseo GmbH)",
+        "location": "Hamburg",
+        "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/senior-footwear-designer-hamburg-74457",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-05",
+        "remote": false,
+        "tags": []
+      },
+      {
+        "title": "Chief Product Officer (CPO) – Footwear (m/w/d)",
+        "company": "Pammys™ (dieseo GmbH)",
+        "location": "Hamburg",
+        "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/chief-product-officer-cpo-footwear-hamburg-257311",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-05",
+        "remote": false,
+        "tags": []
+      },
+      {
+        "title": "Technical Product Manager (All gender)",
+        "company": "Stark",
+        "location": "Berlin",
+        "url": "https://www.arbeitnow.com/jobs/companies/stark/technical-product-manager-all-gender-berlin-340395",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-05",
+        "remote": false,
+        "tags": []
+      },
+      {
+        "title": "Senior Fullstack Engineer (m/f/d)",
+        "company": "Verivox",
+        "location": "Berlin",
+        "url": "https://www.arbeitnow.com/jobs/companies/verivox/senior-fullstack-engineer-berlin-223657",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-05",
+        "remote": false,
+        "tags": [
+          "Fullstack",
+          "Developer",
+          "Engineer",
+          "Angular"
         ]
       },
       {
         "title": "Senior/Tech Lead Backend Engineer (Managed Kubernetes)",
         "company": "Nebius",
-        "location": "Berlin",
-        "url": "https://www.arbeitnow.com/jobs/companies/nebius/senior-tech-lead-backend-engineer-managed-kubernetes-berlin-38502",
+        "location": "",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-tech-lead-backend-engineer-managed-kubernetes-388791",
         "source": "Arbeitnow",
-        "posted_date": "2026-09-03",
+        "posted_date": "2026-09-05",
         "remote": false,
         "tags": [
           "Backend"
         ]
       },
       {
-        "title": "Senior Product Manager (Giftcard)",
-        "company": "Atolls",
-        "location": "London, England, United Kingdom",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/atolls/senior-product-manager-giftcard-london-231979",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-03",
-        "remote": false,
-        "tags": []
-      },
-      {
-        "title": "Senior Product Designer",
-        "company": "Deepl",
-        "location": "London",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/senior-product-designer-london-151911",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-03",
-        "remote": false,
-        "tags": [
-          "Product"
-        ]
-      },
-      {
-        "title": "Senior Product Manager",
-        "company": "Mubi",
-        "location": "London",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/mubi/senior-product-manager-london-195200",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-03",
-        "remote": false,
-        "tags": [
-          "Product"
-        ]
-      },
-      {
-        "title": "Senior Manager, Solution Engineering EMEA",
-        "company": "Sanity",
+        "title": "Software quality engineer (UK)",
+        "company": "Writer",
         "location": "London, UK",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/sanity/senior-manager-solution-engineering-emea-london-uk-378808",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/software-quality-engineer-uk-london-220045",
         "source": "Arbeitnow",
-        "posted_date": "2026-09-03",
+        "posted_date": "2026-09-05",
         "remote": false,
         "tags": [
-          "Customer Solutions"
+          "Engineering",
+          "product & design"
         ]
       },
       {
-        "title": "Product Manager - Payments",
-        "company": "ThriveCart",
+        "title": "Senior Software Engineer - Full Stack (Merchants)",
+        "company": "Deliveroo",
+        "location": "United Kingdom - Home Office",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-full-stack-merchants-london-330430",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-05",
+        "remote": false,
+        "tags": [
+          "All Cost Centers"
+        ]
+      },
+      {
+        "title": "Software Engineer (.NET C#)",
+        "company": "TransPerfect",
+        "location": "London, Greater London, United Kingdom",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/software-engineer-net-c-london-314586",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-05",
+        "remote": false,
+        "tags": [
+          "Tech"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer (C# .NET) | London",
+        "company": "TransPerfect",
+        "location": "London, Greater London, United Kingdom",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-software-engineer-c-net-london-196243",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-05",
+        "remote": false,
+        "tags": [
+          "Tech"
+        ]
+      },
+      {
+        "title": "Senior Frontend Developer (all genders)",
+        "company": "Lightspeedhq",
+        "location": "Berlin",
+        "url": "https://www.arbeitnow.com/jobs/companies/lightspeedhq/senior-frontend-developer-all-genders-berlin-89965",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-04",
+        "remote": false,
+        "tags": [
+          "Technology"
+        ]
+      },
+      {
+        "title": "Solutions Engineer",
+        "company": "Digicert",
         "location": "London",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/thrivecart/product-manager-payments-london-331375",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/digicert/solutions-engineer-london-38230",
         "source": "Arbeitnow",
-        "posted_date": "2026-09-03",
-        "remote": true,
+        "posted_date": "2026-09-04",
+        "remote": false,
         "tags": [
-          "Remote",
+          "Sales Enablement"
+        ]
+      },
+      {
+        "title": "Associate Solutions Engineer",
+        "company": "Digicert",
+        "location": "London",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/digicert/associate-solutions-engineer-london-366180",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-04",
+        "remote": false,
+        "tags": [
+          "Sales Enablement"
+        ]
+      },
+      {
+        "title": "Senior Product Manager (Data APIs)",
+        "company": "9Fin",
+        "location": "London",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-product-manager-data-apis-london-48581",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-04",
+        "remote": false,
+        "tags": [
           "Product Management"
-        ]
-      },
-      {
-        "title": "Senior Data Scientist",
-        "company": "Monzoreferrals",
-        "location": "Cardiff",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/senior-data-scientist-cardiff-219726",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-03",
-        "remote": false,
-        "tags": [
-          "Data"
-        ]
-      },
-      {
-        "title": "AI Product Owner - Leeds",
-        "company": "Legal 500",
-        "location": "Leeds",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-500/ai-product-owner-leeds-148802",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-03",
-        "remote": false,
-        "tags": [
-          "Finance & Operations"
-        ]
-      },
-      {
-        "title": "Product Manager, Crypto Asset Management",
-        "company": "MoonPay",
-        "location": "London - Hybrid",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/moonpay/product-manager-crypto-asset-management-london-hybrid-386040",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-03",
-        "remote": false,
-        "tags": [
-          "Product"
         ]
       },
       {
