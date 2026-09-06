@@ -190,29 +190,355 @@
     ]
   },
   "live_feed": {
-    "generated_at": "2026-09-05T07:41:39.499Z",
+    "generated_at": "2026-09-06T07:55:45.582Z",
     "sources": [
       "Remotive API",
       "Arbeitnow API"
     ],
     "jobs": [
       {
-        "title": "FullStack Engineer - Prospect UI Solutions",
-        "company": "Constructor",
+        "title": "Strategic Account Executive - Turkey",
+        "company": "gitlab",
         "location": "Remote",
-        "url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-ui-solutions-munich-415043",
+        "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-strategic-account-executive-turkey-389960",
         "source": "Arbeitnow",
-        "posted_date": "2026-09-05",
+        "posted_date": "2026-09-06",
+        "remote": true,
+        "tags": [
+          "EMEA - Commercial"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer (m/w/d) | Fullstack für KI-Produkte",
+        "company": "Avenit Ag",
+        "location": "Remote in Deutschland",
+        "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-294858",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "AI Engineer",
+          "Senior Fullstack Developer",
+          "Fullstack Entwickler",
+          "KI Engineer",
+          "Software Development",
+          "Produktentwicklung",
+          "SaaS Engineer",
+          "SaaS",
+          "KI",
+          "AI"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer (Full-Stack) - Healthcare Applications",
+        "company": "Snke",
+        "location": "München",
+        "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-software-engineer-full-stack-healthcare-applications-munchen-41995",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": []
+      },
+      {
+        "title": "(Senior) UX Researcher (all genders)",
+        "company": "Real Digital",
+        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-ux-researcher-all-genders-453027",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": []
+      },
+      {
+        "title": "(Senior) Business Automation Developer (all genders) I International",
+        "company": "Real Digital",
+        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
+        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-107411",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "DE",
+          "business Automation",
+          "AI",
+          "KI",
+          "LLM",
+          "International"
+        ]
+      },
+      {
+        "title": "Senior Product Owner / Program Manager (m/f/d)",
+        "company": "Oh So",
+        "location": "Hamburg",
+        "url": "https://www.arbeitnow.com/jobs/companies/oh-so/senior-product-owner-program-manager-hamburg-333911",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": []
+      },
+      {
+        "title": "Senior Frontend Engineer - London",
+        "company": "Perk",
+        "location": "London",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-frontend-engineer-london-423081",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
         "remote": false,
         "tags": [
           "Engineering"
         ]
       },
       {
-        "title": "Senior Data Engineer",
-        "company": "Liqid Lig",
-        "location": "Berlin",
-        "url": "https://www.arbeitnow.com/jobs/companies/liqid-lig/senior-data-engineer-berlin-462279",
+        "title": "Solutions Engineer - Italian Speaking",
+        "company": "Algolia",
+        "location": "Paris",
+        "url": "https://www.arbeitnow.fr/jobs/companies/algolia/solutions-engineer-italian-speaking-paris-165143",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "Field Engineering"
+        ]
+      },
+      {
+        "title": "Product Lead @Panora",
+        "company": "Hexa",
+        "location": "Paris",
+        "url": "https://www.arbeitnow.fr/jobs/companies/hexa/product-lead-at-panora-paris-469260",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "Panora"
+        ]
+      },
+      {
+        "title": "MLOps Engineer",
+        "company": "Alta Ares",
+        "location": "Paris",
+        "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/mlops-engineer-paris-372117",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "Software"
+        ]
+      },
+      {
+        "title": "Client Delivery Lead (Energy markets experience)",
+        "company": "Kraken",
+        "location": "Paris, France",
+        "url": "https://www.arbeitnow.fr/jobs/companies/kraken/client-delivery-lead-energy-markets-experience-paris-272079",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "Delivery Tech"
+        ]
+      },
+      {
+        "title": "Technical Account Manager",
+        "company": "Kraken",
+        "location": "Paris, France",
+        "url": "https://www.arbeitnow.fr/jobs/companies/kraken/technical-account-manager-paris-351940",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "Customer Success"
+        ]
+      },
+      {
+        "title": "Client Delivery Lead - Billing",
+        "company": "Kraken",
+        "location": "Paris, France",
+        "url": "https://www.arbeitnow.fr/jobs/companies/kraken/client-delivery-lead-billing-paris-470305",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "Delivery Tech"
+        ]
+      },
+      {
+        "title": "Client Data & Analytics Lead (f/m/d)",
+        "company": "Kraken",
+        "location": "Paris, France",
+        "url": "https://www.arbeitnow.fr/jobs/companies/kraken/client-data-analytics-lead-paris-363215",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "Delivery Tech"
+        ]
+      },
+      {
+        "title": "Tech Lead Marketplace Experience (m/w/d)",
+        "company": "Bridgemaker GmbH",
+        "location": "Hybrid",
+        "url": "https://www.arbeitnow.fr/jobs/companies/bridgemaker-gmbh/tech-lead-marketplace-experience-hybrid-395126",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": []
+      },
+      {
+        "title": "Tech Lead Grower Experience (m/w/d)",
+        "company": "Bridgemaker GmbH",
+        "location": "Hybrid",
+        "url": "https://www.arbeitnow.fr/jobs/companies/bridgemaker-gmbh/tech-lead-grower-experience-hybrid-46339",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": []
+      },
+      {
+        "title": "Product Owner / Product Manager Senior (H/F)",
+        "company": "Thiga",
+        "location": "Paris",
+        "url": "https://www.arbeitnow.fr/jobs/companies/thiga/product-owner-product-manager-senior-h-f-paris-465918",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "Consulting"
+        ]
+      },
+      {
+        "title": "Product Owner / Product Manager (H/F)",
+        "company": "Thiga",
+        "location": "Paris",
+        "url": "https://www.arbeitnow.fr/jobs/companies/thiga/product-owner-product-manager-h-f-paris-131762",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "Consulting"
+        ]
+      },
+      {
+        "title": "Product Ops IA / Product Manager Ops - (H/F)",
+        "company": "Thiga",
+        "location": "Paris",
+        "url": "https://www.arbeitnow.fr/jobs/companies/thiga/product-ops-ia-product-manager-ops-h-f-paris-162031",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "Consulting"
+        ]
+      },
+      {
+        "title": "Lead Product Manager & Coach Produit H/F",
+        "company": "Thiga",
+        "location": "Paris",
+        "url": "https://www.arbeitnow.fr/jobs/companies/thiga/lead-product-manager-coach-produit-h-f-paris-461691",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "Consulting"
+        ]
+      },
+      {
+        "title": "Head of Product Transformation / Consultant·e en Organisation Produit H/F",
+        "company": "Thiga",
+        "location": "Paris",
+        "url": "https://www.arbeitnow.fr/jobs/companies/thiga/head-of-product-transformation-consultante-en-organisation-produit-h-f-paris-495288",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "Consulting"
+        ]
+      },
+      {
+        "title": "Data Product Manager H/F",
+        "company": "Thiga",
+        "location": "Paris",
+        "url": "https://www.arbeitnow.fr/jobs/companies/thiga/data-product-manager-h-f-paris-106595",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "Consulting"
+        ]
+      },
+      {
+        "title": "Senior QA Engineer",
+        "company": "Odaseva",
+        "location": "Paris",
+        "url": "https://www.arbeitnow.fr/jobs/companies/odaseva/senior-qa-engineer-paris-152737",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "Engineering"
+        ]
+      },
+      {
+        "title": "Sr. Customer Success Manager (French Speaking)",
+        "company": "Constructor",
+        "location": "Remote - France",
+        "url": "https://www.arbeitnow.fr/jobs/companies/constructor/remote-sr-customer-success-manager-french-speaking-416581",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-06",
+        "remote": false,
+        "tags": [
+          "Customer Success"
+        ]
+      },
+      {
+        "title": "Senior Product Designer (m/f/d)",
+        "company": "Impower",
+        "location": "München",
+        "url": "https://www.arbeitnow.com/jobs/companies/impower/senior-product-designer-munchen-161552",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-05",
+        "remote": false,
+        "tags": []
+      },
+      {
+        "title": "Product Manager – AI Product Engineering",
+        "company": "Guidepoint",
+        "location": "London",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/guidepoint/product-manager-ai-product-engineering-london-227150",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-05",
+        "remote": false,
+        "tags": [
+          "Product"
+        ]
+      },
+      {
+        "title": "Sr. Software Engineer, Investor Solutions",
+        "company": "Addepar1",
+        "location": "Edinburgh",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-investor-solutions-edinburgh-383916",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-05",
+        "remote": false,
+        "tags": [
+          "Alts & Data Management"
+        ]
+      },
+      {
+        "title": "Sr. Software Engineer - AI/ML - AI Platform",
+        "company": "Addepar1",
+        "location": "London",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-ai-ml-ai-platform-london-276160",
+        "source": "Arbeitnow",
+        "posted_date": "2026-09-05",
+        "remote": false,
+        "tags": [
+          "Alts & Data Management"
+        ]
+      },
+      {
+        "title": "Staff Product Manager - Physical AI/Robotics",
+        "company": "Coreweaveu",
+        "location": "London",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-product-manager-physical-ai-robotics-london-203840",
         "source": "Arbeitnow",
         "posted_date": "2026-09-05",
         "remote": false,
@@ -221,60 +547,15 @@
         ]
       },
       {
-        "title": "Senior iOS Engineer - Swift (m|w|d)",
-        "company": "idealo internet GmbH",
-        "location": "Berlin, Berlin, Deutschland",
-        "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-ios-engineer-swift-mwd-berlin-330230",
+        "title": "Staff Product Manager, Applied Physical AI",
+        "company": "Coreweaveu",
+        "location": "London",
+        "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/staff-product-manager-applied-physical-ai-london-308855",
         "source": "Arbeitnow",
         "posted_date": "2026-09-05",
         "remote": false,
         "tags": [
-          "Technology & Data"
-        ]
-      },
-      {
-        "title": "Senior Footwear Designer (m/w/d)",
-        "company": "Pammys™ (dieseo GmbH)",
-        "location": "Hamburg",
-        "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/senior-footwear-designer-hamburg-74457",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-05",
-        "remote": false,
-        "tags": []
-      },
-      {
-        "title": "Chief Product Officer (CPO) – Footwear (m/w/d)",
-        "company": "Pammys™ (dieseo GmbH)",
-        "location": "Hamburg",
-        "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/chief-product-officer-cpo-footwear-hamburg-257311",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-05",
-        "remote": false,
-        "tags": []
-      },
-      {
-        "title": "Technical Product Manager (All gender)",
-        "company": "Stark",
-        "location": "Berlin",
-        "url": "https://www.arbeitnow.com/jobs/companies/stark/technical-product-manager-all-gender-berlin-340395",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-05",
-        "remote": false,
-        "tags": []
-      },
-      {
-        "title": "Senior Fullstack Engineer (m/f/d)",
-        "company": "Verivox",
-        "location": "Berlin",
-        "url": "https://www.arbeitnow.com/jobs/companies/verivox/senior-fullstack-engineer-berlin-223657",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-05",
-        "remote": false,
-        "tags": [
-          "Fullstack",
-          "Developer",
-          "Engineer",
-          "Angular"
+          "Monolith T&I"
         ]
       },
       {
@@ -300,90 +581,6 @@
         "tags": [
           "Engineering",
           "product & design"
-        ]
-      },
-      {
-        "title": "Senior Software Engineer - Full Stack (Merchants)",
-        "company": "Deliveroo",
-        "location": "United Kingdom - Home Office",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-full-stack-merchants-london-330430",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-05",
-        "remote": false,
-        "tags": [
-          "All Cost Centers"
-        ]
-      },
-      {
-        "title": "Software Engineer (.NET C#)",
-        "company": "TransPerfect",
-        "location": "London, Greater London, United Kingdom",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/software-engineer-net-c-london-314586",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-05",
-        "remote": false,
-        "tags": [
-          "Tech"
-        ]
-      },
-      {
-        "title": "Senior Software Engineer (C# .NET) | London",
-        "company": "TransPerfect",
-        "location": "London, Greater London, United Kingdom",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/senior-software-engineer-c-net-london-196243",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-05",
-        "remote": false,
-        "tags": [
-          "Tech"
-        ]
-      },
-      {
-        "title": "Senior Frontend Developer (all genders)",
-        "company": "Lightspeedhq",
-        "location": "Berlin",
-        "url": "https://www.arbeitnow.com/jobs/companies/lightspeedhq/senior-frontend-developer-all-genders-berlin-89965",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-04",
-        "remote": false,
-        "tags": [
-          "Technology"
-        ]
-      },
-      {
-        "title": "Solutions Engineer",
-        "company": "Digicert",
-        "location": "London",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/digicert/solutions-engineer-london-38230",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-04",
-        "remote": false,
-        "tags": [
-          "Sales Enablement"
-        ]
-      },
-      {
-        "title": "Associate Solutions Engineer",
-        "company": "Digicert",
-        "location": "London",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/digicert/associate-solutions-engineer-london-366180",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-04",
-        "remote": false,
-        "tags": [
-          "Sales Enablement"
-        ]
-      },
-      {
-        "title": "Senior Product Manager (Data APIs)",
-        "company": "9Fin",
-        "location": "London",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/9fin/senior-product-manager-data-apis-london-48581",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-04",
-        "remote": false,
-        "tags": [
-          "Product Management"
         ]
       },
       {
