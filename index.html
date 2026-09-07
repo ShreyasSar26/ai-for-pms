@@ -25,7 +25,7 @@
       <button class="tab" data-tab="roadmap">Roadmap</button>
       <button class="tab" data-tab="resources">Resources</button>
       <button class="tab" data-tab="jobs">Jobs</button>
-      <button class="tab" data-tab="cv">CV Toolkit</button>
+      <button class="tab" data-tab="cv">CV Agent</button>
     </nav>
   </header>
 
@@ -89,6 +89,7 @@
       <h2>Curated Resource Library</h2>
       <div class="subtabs" id="resource-subtabs">
         <button class="subtab active" data-sub="newsletters">Newsletters</button>
+        <button class="subtab" data-sub="articles">Articles</button>
         <button class="subtab" data-sub="youtube">YouTube</button>
         <button class="subtab" data-sub="courses">Courses</button>
         <button class="subtab" data-sub="books">Books</button>
@@ -116,13 +117,13 @@
 
     <!-- CV TOOLKIT -->
     <section id="panel-cv" class="panel">
-      <h2 id="cv-title">The AI-Era PM CV Rulebook</h2>
+      <h2 id="cv-title">AI Product Manager CV Agent</h2>
       <p class="muted" id="cv-subtitle"></p>
 
       <div class="subtabs" id="cv-subtabs">
         <button class="subtab active" data-sub="rulebook">Rulebook</button>
         <button class="subtab" data-sub="bullet">Bullet Coach (STAR)</button>
-        <button class="subtab" data-sub="verifier">Full CV Verifier</button>
+        <button class="subtab" data-sub="verifier">Tailor My CV</button>
       </div>
 
       <!-- Rulebook -->
@@ -171,16 +172,17 @@
       <!-- Verifier -->
       <div id="cv-verifier" class="cv-sub">
         <div class="card">
+          <div id="cv-target" class="target-role" hidden></div>
           <label for="cv-input"><strong>Paste your full CV text</strong> (or upload a .docx / .pdf / .txt below)</label>
           <textarea id="cv-input" rows="10" placeholder="Paste your CV text here…"></textarea>
           <div class="row wrap">
             <input type="file" id="cv-file" accept=".docx,.pdf,.txt" />
             <span id="cv-file-status" class="muted"></span>
           </div>
-          <label for="jd-input" style="margin-top:12px;"><strong>Optional: paste target job description</strong> for keyword-match scoring</label>
+          <label for="jd-input" style="margin-top:12px;"><strong>Paste or select a target job description</strong> for role-specific recommendations</label>
           <textarea id="jd-input" rows="4" placeholder="Paste the job description here…"></textarea>
           <div class="row">
-            <button id="cv-verify" class="btn primary">Verify CV</button>
+            <button id="cv-verify" class="btn primary">Recommend CV changes</button>
           </div>
         </div>
         <div id="cv-verify-result"></div>
@@ -195,7 +197,7 @@
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/mammoth@1.8.0/mammoth.browser.min.js" defer></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js" defer></script>
   <script src="assets/cv-engine.js" defer></script>
   <script src="assets/llm.js" defer></script>
   <script src="assets/app.js" defer></script>

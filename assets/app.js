@@ -155,13 +155,17 @@
             <p><b>${escapeHtml(n.author)}</b> — ${escapeHtml(n.focus)}</p></div>`
         )
         .join('')}</div>`;
+    } else if (sub === 'articles') {
+      html = `<div class="grid">${resources.articles
+        .map((a) => `<div class="tile"><h4><a href="${a.url}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></h4><p><b>${escapeHtml(a.source)}</b> — ${escapeHtml(a.focus)}</p></div>`)
+        .join('')}</div>`;
     } else if (sub === 'youtube') {
       html = `<div class="grid">${resources.youtube
-        .map((y) => `<div class="tile"><h4>${escapeHtml(y.channel)}</h4><p>${escapeHtml(y.best_for)}</p></div>`)
+        .map((y) => `<div class="tile"><h4><a href="${y.url}" target="_blank" rel="noopener">${escapeHtml(y.channel)}</a></h4><p>${escapeHtml(y.best_for)}</p></div>`)
         .join('')}</div>`;
     } else if (sub === 'courses') {
       html = `<div class="grid">${resources.courses
-        .map((c) => `<div class="tile"><h4>${escapeHtml(c.name)}</h4><p><b>${escapeHtml(c.provider)}</b> — ${escapeHtml(c.notes)}</p></div>`)
+        .map((c) => `<div class="tile"><h4><a href="${c.url}" target="_blank" rel="noopener">${escapeHtml(c.name)}</a></h4><p><b>${escapeHtml(c.provider)}</b> — ${escapeHtml(c.notes)}</p></div>`)
         .join('')}</div>`;
     } else if (sub === 'books') {
       html = `<div class="grid">${resources.books
@@ -202,14 +206,21 @@
       if (!live.jobs.length) {
         html = `<div class="card">No live feed data yet. Run <code>node scripts/fetch-jobs.mjs</code> locally, or wait for the daily GitHub Actions run.</div>`;
       } else {
-        html = jobsTable(live.jobs, [
-          { key: 'title', label: 'Role' },
-          { key: 'company', label: 'Company' },
-          { key: 'location', label: 'Location' },
-          { key: 'source', label: 'Source' },
-          { key: 'posted_date', label: 'Posted' },
-          { key: 'url', label: '' }
-        ]);
+        html = `<p class="feed-scope">${live.jobs.length} matching open roles returned by ${escapeHtml(live.sources.join(' and '))}. Availability is rechecked on each daily refresh.</p>
+          <div class="job-list">${live.jobs.map((job, index) => `<article class="job-card">
+            <div class="job-heading">
+              <div><h3>${escapeHtml(job.title)}</h3><p>${escapeHtml(job.company)} · ${escapeHtml(job.location || 'Location not listed')}</p></div>
+              <span class="job-date">Posted ${escapeHtml(job.posted_date || 'date unavailable')}</span>
+            </div>
+            <div class="job-details">
+              <div><h4>JD summary</h4><p>${escapeHtml(job.summary || 'Open the listing to review the full job description.')}</p></div>
+              <div><h4>What your CV should prove</h4><ul>${(job.cv_expectations || []).map((item) => `<li>${escapeHtml(item)}</li>`).join('')}</ul></div>
+            </div>
+            <div class="job-actions">
+              <a class="btn" href="${job.url}" target="_blank" rel="noopener">View role</a>
+              <button class="btn primary tailor-job" data-job-index="${index}">Tailor CV for this role</button>
+            </div>
+          </article>`).join('')}</div>`;
       }
     } else if (sub === 'india') {
       html = jobsTable(jobs.curated_snapshot.india, [
@@ -228,9 +239,23 @@
       ]);
     }
     $('#jobs-content').innerHTML = html;
+    $all('.tailor-job').forEach((button) => {
+      button.addEventListener('click', () => selectJobForCV(live.jobs[Number(button.dataset.jobIndex)]));
+    });
     $('#jobs-saved-searches').innerHTML = jobs.curated_snapshot.saved_searches
       .map((s) => `<div><a href="${s.url}" target="_blank" rel="noopener">${escapeHtml(s.label)}</a></div>`)
       .join('');
+  }
+
+  function selectJobForCV(job) {
+    $('#jd-input').value = job.description || job.summary || '';
+    const target = $('#cv-target');
+    target.hidden = false;
+    target.innerHTML = `<b>Target role:</b> ${escapeHtml(job.title)} at ${escapeHtml(job.company)}`;
+    state.cvSub = 'verifier';
+    $all('#cv-subtabs .subtab').forEach((button) => button.classList.toggle('active', button.dataset.sub === 'verifier'));
+    $all('.cv-sub').forEach((panel) => panel.classList.toggle('active', panel.id === 'cv-verifier'));
+    switchTab('cv');
   }
 
   // ---------- CV Rulebook ----------
@@ -346,7 +371,7 @@
     }
     if (name.endsWith('.pdf')) {
       if (!window.pdfjsLib) throw new Error('PDF parser not loaded (offline?).');
-      window.pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.0.379/pdf.worker.min.js';
+      window.pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
       const buf = await file.arrayBuffer();
       const pdf = await window.pdfjsLib.getDocument({ data: buf }).promise;
       let text = '';
@@ -382,6 +407,8 @@
         ${kw ? `<h3>Keyword match vs. job description (${kw.percent}%)</h3>
           <p class="muted"><b>Matched:</b> ${kw.matched.map(escapeHtml).join(', ') || '—'}</p>
           <p class="muted"><b>Missing:</b> ${kw.missing.map(escapeHtml).join(', ') || '—'}</p>` : ''}
+        <h3>Recommended CV changes</h3>
+        <ol class="recommendation-list">${r.recommendations.map((item) => `<li>${escapeHtml(item)}</li>`).join('')}</ol>
       </div>
     `;
   }

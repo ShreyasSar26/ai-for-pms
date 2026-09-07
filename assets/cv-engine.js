@@ -210,6 +210,7 @@
     let keywordMatch = null;
     if (jobDescription && jobDescription.trim()) {
       const jdWords = (jobDescription.toLowerCase().match(/[a-z][a-z0-9+.#-]{2,}/g) || [])
+        .map((word) => word.replace(/[.#-]+$/g, ''))
         .filter((w) => !STOPWORDS.has(w));
       const freq = {};
       jdWords.forEach((w) => (freq[w] = (freq[w] || 0) + 1));
@@ -241,6 +242,21 @@
       (keywordMatch ? keywordMatch.percent * 0.3 : 15));
     atsScore = Math.max(0, Math.min(100, atsScore));
 
+    const recommendations = [];
+    if (keywordMatch && keywordMatch.missing.length) {
+      recommendations.push(`Where accurate, add evidence for these JD terms: ${keywordMatch.missing.slice(0, 8).join(', ')}.`);
+    }
+    if (avgBulletScore < 75) {
+      recommendations.push('Rewrite the highest-value experience bullets as: strong action + what you owned + method + quantified result.');
+    }
+    if (missingMetricCount > 0 || !bulletAnalyses.some((bullet) => hasNumber(bullet.rewritten))) {
+      recommendations.push('Quantify scope and impact with adoption, revenue, conversion, retention, cost, latency, accuracy, or time saved.');
+    }
+    if (weakOpenerCount > 0) recommendations.push(`Replace weak openers in ${weakOpenerCount} bullet(s) with ownership verbs such as Led, Shipped, Drove, or Prioritized.`);
+    if (passiveCount > 0) recommendations.push(`Rewrite ${passiveCount} passive bullet(s) to make your decisions and ownership explicit.`);
+    if (!sectionsFound.includes('summary')) recommendations.push('Add a concise summary naming your PM scope, domain expertise, years of experience, and most relevant outcome for this role.');
+    if (recommendations.length < 3) recommendations.push('Move the experience most relevant to this JD into the top third of the CV and trim unrelated detail.');
+
     return {
       atsScore,
       wordCount: wc,
@@ -256,6 +272,7 @@
       weakOpenerCount,
       keywordMatch,
       formatWarnings,
+      recommendations,
       note: 'This is a best-effort text-based check. It cannot see fonts, colors, tables, or images — for full ATS confidence, also follow the formatting rulebook manually.'
     };
   }

@@ -8,26 +8,36 @@
     { "name": "Latent Space", "author": "swyx & Alessio", "focus": "AI engineering news roundups and technical interviews — speaks the engineers' language.", "tags": ["T"], "url": "https://www.latent.space/" },
     { "name": "Import AI", "author": "Jack Clark (Anthropic co-founder)", "focus": "Weekly AI research and policy roundup.", "tags": ["F", "E"], "url": "https://importai.substack.com/" },
     { "name": "Stratechery", "author": "Ben Thompson", "focus": "Strategic/business analysis of tech and AI shifts.", "tags": ["S"], "url": "https://stratechery.com/" },
-    { "name": "Marily Nika's newsletter", "author": "Marily Nika (ex-Google/Meta AI PM)", "focus": "AI PM career and craft advice from a practitioner; author of 'Building AI-Powered Products'.", "tags": ["S", "T"], "url": "" }
+    { "name": "AI Product Academy", "author": "Marily Nika (ex-Google/Meta AI PM)", "focus": "AI PM career and craft advice from a practitioner; author of 'Building AI-Powered Products'.", "tags": ["S", "T"], "url": "https://marilynika.substack.com/" },
+    { "name": "The Batch", "author": "DeepLearning.AI", "focus": "Accessible weekly summaries of important AI research, products, and industry shifts.", "tags": ["F", "T"], "url": "https://www.deeplearning.ai/the-batch/" },
+    { "name": "The AI Edge", "author": "Latent.Space", "focus": "Practical coverage of agents, models, and AI engineering patterns for product builders.", "tags": ["T", "F"], "url": "https://www.latent.space/" }
+  ],
+  "articles": [
+    { "title": "People + AI Guidebook", "source": "Google PAIR", "focus": "A practical framework for user needs, mental models, explainability, feedback, and graceful failure in AI products.", "url": "https://pair.withgoogle.com/guidebook/" },
+    { "title": "Machine Learning Yearning", "source": "DeepLearning.AI", "focus": "Free guidance from Andrew Ng on error analysis, data strategy, and prioritizing ML work.", "url": "https://www.deeplearning.ai/resources/machine-learning-yearning/" },
+    { "title": "Best practices for evaluating generative AI systems", "source": "OpenAI", "focus": "How to define objectives, build eval datasets, choose metrics, and continuously evaluate AI behavior.", "url": "https://platform.openai.com/docs/guides/evaluation-best-practices" },
+    { "title": "AI Product Management", "source": "Medium topic", "focus": "A broad stream of practitioner essays and case studies; validate author experience and claims before applying advice.", "url": "https://medium.com/tag/ai-product-management" },
+    { "title": "Product Management", "source": "Towards Data Science on Medium", "focus": "Technical explainers and applied data/ML case studies useful for PM-engineering collaboration.", "url": "https://towardsdatascience.com/tagged/product-management" },
+    { "title": "Responsible AI resources", "source": "Microsoft", "focus": "Tools, practices, and governance guidance for building trustworthy AI products.", "url": "https://www.microsoft.com/en-us/ai/responsible-ai-resources" }
   ],
   "youtube": [
-    { "channel": "Lenny's Podcast", "best_for": "Long-form interviews with PM leaders, increasingly AI-focused." },
-    { "channel": "Aakash Gupta / Product Growth", "best_for": "AI PM tactics, tool walkthroughs." },
-    { "channel": "DeepLearning.AI", "best_for": "Short-course companion videos — best free technical grounding for non-engineers." },
-    { "channel": "Exponent", "best_for": "PM interview prep including AI/ML PM interview questions." },
-    { "channel": "Product School", "best_for": "AI PM webinars and panel discussions." },
-    { "channel": "a16z", "best_for": "Investor-level talks with AI founders/researchers on market direction." },
-    { "channel": "Sequoia Capital", "best_for": "'AI Ascent' conference talks — market-level AI trends." },
-    { "channel": "Y Combinator", "best_for": "Startup School talks, several on building AI products." }
+    { "channel": "Lenny's Podcast", "best_for": "Long-form interviews with PM leaders, increasingly AI-focused.", "url": "https://www.youtube.com/@LennysPodcast" },
+    { "channel": "Aakash Gupta / Product Growth", "best_for": "AI PM tactics, career advice, and product teardown videos.", "url": "https://www.youtube.com/@aakashgupta" },
+    { "channel": "DeepLearning.AI", "best_for": "Short-course companion videos and strong free technical grounding for non-engineers.", "url": "https://www.youtube.com/@Deeplearningai" },
+    { "channel": "Exponent", "best_for": "PM interview preparation including AI/ML product questions.", "url": "https://www.youtube.com/@tryexponent" },
+    { "channel": "Product School", "best_for": "AI PM webinars and practitioner panel discussions.", "url": "https://www.youtube.com/@ProductSchoolSanFrancisco" },
+    { "channel": "a16z", "best_for": "Market and technical discussions with AI founders and researchers.", "url": "https://www.youtube.com/@a16z" },
+    { "channel": "Sequoia Capital", "best_for": "AI Ascent talks on product, models, and market direction.", "url": "https://www.youtube.com/@sequoiacapital" },
+    { "channel": "Y Combinator", "best_for": "Startup School and founder talks on discovering and building AI products.", "url": "https://www.youtube.com/@ycombinator" }
   ],
   "courses": [
-    { "name": "Generative AI for Everyone", "provider": "DeepLearning.AI (Andrew Ng)", "notes": "Free/low-cost, no-code conceptual foundation — start here." },
-    { "name": "ChatGPT Prompt Engineering for Developers", "provider": "DeepLearning.AI", "notes": "Free, ~1.5 hrs, hands-on prompting fundamentals." },
-    { "name": "Building Systems with the ChatGPT API", "provider": "DeepLearning.AI", "notes": "Free, shows how multi-step AI systems (like agents) are built." },
-    { "name": "Microsoft AI Product Manager Professional Certificate", "provider": "Coursera", "notes": "Structured, credentialed, employer-recognized cert path." },
-    { "name": "Product Management with AI (Professional Certificate)", "provider": "ISB Online (Indian School of Business)", "notes": "India-specific, cohort-based, good for career switchers." },
-    { "name": "Applied AI/Product cohort courses", "provider": "Reforge", "notes": "Practitioner-led, cohort-based, most rigorous but paid/time-boxed." },
-    { "name": "AI Product Management cohorts", "provider": "Maven", "notes": "Marketplace of live cohorts taught by working AI PMs — vet the instructor before enrolling." }
+    { "name": "Generative AI for Everyone", "provider": "DeepLearning.AI (Andrew Ng)", "notes": "No-code conceptual foundation; a good starting point.", "url": "https://www.coursera.org/learn/generative-ai-for-everyone" },
+    { "name": "ChatGPT Prompt Engineering for Developers", "provider": "DeepLearning.AI", "notes": "Free short course with hands-on prompting fundamentals.", "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/" },
+    { "name": "Building Systems with the ChatGPT API", "provider": "DeepLearning.AI", "notes": "Free short course showing how multi-step AI systems are built.", "url": "https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/" },
+    { "name": "Microsoft AI Product Manager Professional Certificate", "provider": "Coursera", "notes": "Structured and credentialed certificate path.", "url": "https://www.coursera.org/professional-certificates/microsoft-ai-product-manager" },
+    { "name": "Product Management with AI", "provider": "ISB Online", "notes": "India-focused, cohort-based program for career development.", "url": "https://online-em.isb.edu/product-management" },
+    { "name": "Applied AI courses", "provider": "Reforge", "notes": "Practitioner-led learning for experienced product builders.", "url": "https://www.reforge.com/courses" },
+    { "name": "AI Product Management cohorts", "provider": "Maven", "notes": "Live courses taught by practitioners; review the instructor's experience before enrolling.", "url": "https://maven.com/courses/ai" }
   ],
   "books": [
     { "title": "Building AI-Powered Products", "author": "Marily Nika" },

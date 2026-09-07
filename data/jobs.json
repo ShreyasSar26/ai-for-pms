@@ -190,314 +190,12 @@
     ]
   },
   "live_feed": {
-    "generated_at": "2026-09-06T07:55:45.582Z",
+    "generated_at": "2026-09-07T06:32:29.273Z",
     "sources": [
       "Remotive API",
       "Arbeitnow API"
     ],
     "jobs": [
-      {
-        "title": "Strategic Account Executive - Turkey",
-        "company": "gitlab",
-        "location": "Remote",
-        "url": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-strategic-account-executive-turkey-389960",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": true,
-        "tags": [
-          "EMEA - Commercial"
-        ]
-      },
-      {
-        "title": "Senior Software Engineer (m/w/d) | Fullstack für KI-Produkte",
-        "company": "Avenit Ag",
-        "location": "Remote in Deutschland",
-        "url": "https://www.arbeitnow.com/jobs/companies/avenit-ag/remote-senior-software-engineer-fullstack-fur-ki-produkte-294858",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "AI Engineer",
-          "Senior Fullstack Developer",
-          "Fullstack Entwickler",
-          "KI Engineer",
-          "Software Development",
-          "Produktentwicklung",
-          "SaaS Engineer",
-          "SaaS",
-          "KI",
-          "AI"
-        ]
-      },
-      {
-        "title": "Senior Software Engineer (Full-Stack) - Healthcare Applications",
-        "company": "Snke",
-        "location": "München",
-        "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-software-engineer-full-stack-healthcare-applications-munchen-41995",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": []
-      },
-      {
-        "title": "(Senior) UX Researcher (all genders)",
-        "company": "Real Digital",
-        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
-        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-ux-researcher-all-genders-453027",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": []
-      },
-      {
-        "title": "(Senior) Business Automation Developer (all genders) I International",
-        "company": "Real Digital",
-        "location": "Remote oder Köln / Darmstadt / Düsseldorf / Berlin",
-        "url": "https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-business-automation-developer-all-genders-i-international-107411",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "DE",
-          "business Automation",
-          "AI",
-          "KI",
-          "LLM",
-          "International"
-        ]
-      },
-      {
-        "title": "Senior Product Owner / Program Manager (m/f/d)",
-        "company": "Oh So",
-        "location": "Hamburg",
-        "url": "https://www.arbeitnow.com/jobs/companies/oh-so/senior-product-owner-program-manager-hamburg-333911",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": []
-      },
-      {
-        "title": "Senior Frontend Engineer - London",
-        "company": "Perk",
-        "location": "London",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-frontend-engineer-london-423081",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "Engineering"
-        ]
-      },
-      {
-        "title": "Solutions Engineer - Italian Speaking",
-        "company": "Algolia",
-        "location": "Paris",
-        "url": "https://www.arbeitnow.fr/jobs/companies/algolia/solutions-engineer-italian-speaking-paris-165143",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "Field Engineering"
-        ]
-      },
-      {
-        "title": "Product Lead @Panora",
-        "company": "Hexa",
-        "location": "Paris",
-        "url": "https://www.arbeitnow.fr/jobs/companies/hexa/product-lead-at-panora-paris-469260",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "Panora"
-        ]
-      },
-      {
-        "title": "MLOps Engineer",
-        "company": "Alta Ares",
-        "location": "Paris",
-        "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/mlops-engineer-paris-372117",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "Software"
-        ]
-      },
-      {
-        "title": "Client Delivery Lead (Energy markets experience)",
-        "company": "Kraken",
-        "location": "Paris, France",
-        "url": "https://www.arbeitnow.fr/jobs/companies/kraken/client-delivery-lead-energy-markets-experience-paris-272079",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "Delivery Tech"
-        ]
-      },
-      {
-        "title": "Technical Account Manager",
-        "company": "Kraken",
-        "location": "Paris, France",
-        "url": "https://www.arbeitnow.fr/jobs/companies/kraken/technical-account-manager-paris-351940",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "Customer Success"
-        ]
-      },
-      {
-        "title": "Client Delivery Lead - Billing",
-        "company": "Kraken",
-        "location": "Paris, France",
-        "url": "https://www.arbeitnow.fr/jobs/companies/kraken/client-delivery-lead-billing-paris-470305",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "Delivery Tech"
-        ]
-      },
-      {
-        "title": "Client Data & Analytics Lead (f/m/d)",
-        "company": "Kraken",
-        "location": "Paris, France",
-        "url": "https://www.arbeitnow.fr/jobs/companies/kraken/client-data-analytics-lead-paris-363215",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "Delivery Tech"
-        ]
-      },
-      {
-        "title": "Tech Lead Marketplace Experience (m/w/d)",
-        "company": "Bridgemaker GmbH",
-        "location": "Hybrid",
-        "url": "https://www.arbeitnow.fr/jobs/companies/bridgemaker-gmbh/tech-lead-marketplace-experience-hybrid-395126",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": []
-      },
-      {
-        "title": "Tech Lead Grower Experience (m/w/d)",
-        "company": "Bridgemaker GmbH",
-        "location": "Hybrid",
-        "url": "https://www.arbeitnow.fr/jobs/companies/bridgemaker-gmbh/tech-lead-grower-experience-hybrid-46339",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": []
-      },
-      {
-        "title": "Product Owner / Product Manager Senior (H/F)",
-        "company": "Thiga",
-        "location": "Paris",
-        "url": "https://www.arbeitnow.fr/jobs/companies/thiga/product-owner-product-manager-senior-h-f-paris-465918",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "Consulting"
-        ]
-      },
-      {
-        "title": "Product Owner / Product Manager (H/F)",
-        "company": "Thiga",
-        "location": "Paris",
-        "url": "https://www.arbeitnow.fr/jobs/companies/thiga/product-owner-product-manager-h-f-paris-131762",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "Consulting"
-        ]
-      },
-      {
-        "title": "Product Ops IA / Product Manager Ops - (H/F)",
-        "company": "Thiga",
-        "location": "Paris",
-        "url": "https://www.arbeitnow.fr/jobs/companies/thiga/product-ops-ia-product-manager-ops-h-f-paris-162031",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "Consulting"
-        ]
-      },
-      {
-        "title": "Lead Product Manager & Coach Produit H/F",
-        "company": "Thiga",
-        "location": "Paris",
-        "url": "https://www.arbeitnow.fr/jobs/companies/thiga/lead-product-manager-coach-produit-h-f-paris-461691",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "Consulting"
-        ]
-      },
-      {
-        "title": "Head of Product Transformation / Consultant·e en Organisation Produit H/F",
-        "company": "Thiga",
-        "location": "Paris",
-        "url": "https://www.arbeitnow.fr/jobs/companies/thiga/head-of-product-transformation-consultante-en-organisation-produit-h-f-paris-495288",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "Consulting"
-        ]
-      },
-      {
-        "title": "Data Product Manager H/F",
-        "company": "Thiga",
-        "location": "Paris",
-        "url": "https://www.arbeitnow.fr/jobs/companies/thiga/data-product-manager-h-f-paris-106595",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "Consulting"
-        ]
-      },
-      {
-        "title": "Senior QA Engineer",
-        "company": "Odaseva",
-        "location": "Paris",
-        "url": "https://www.arbeitnow.fr/jobs/companies/odaseva/senior-qa-engineer-paris-152737",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "Engineering"
-        ]
-      },
-      {
-        "title": "Sr. Customer Success Manager (French Speaking)",
-        "company": "Constructor",
-        "location": "Remote - France",
-        "url": "https://www.arbeitnow.fr/jobs/companies/constructor/remote-sr-customer-success-manager-french-speaking-416581",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-06",
-        "remote": false,
-        "tags": [
-          "Customer Success"
-        ]
-      },
-      {
-        "title": "Senior Product Designer (m/f/d)",
-        "company": "Impower",
-        "location": "München",
-        "url": "https://www.arbeitnow.com/jobs/companies/impower/senior-product-designer-munchen-161552",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-05",
-        "remote": false,
-        "tags": []
-      },
       {
         "title": "Product Manager – AI Product Engineering",
         "company": "Guidepoint",
@@ -508,30 +206,14 @@
         "remote": false,
         "tags": [
           "Product"
-        ]
-      },
-      {
-        "title": "Sr. Software Engineer, Investor Solutions",
-        "company": "Addepar1",
-        "location": "Edinburgh",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-investor-solutions-edinburgh-383916",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-05",
-        "remote": false,
-        "tags": [
-          "Alts & Data Management"
-        ]
-      },
-      {
-        "title": "Sr. Software Engineer - AI/ML - AI Platform",
-        "company": "Addepar1",
-        "location": "London",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/sr-software-engineer-ai-ml-ai-platform-london-276160",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-05",
-        "remote": false,
-        "tags": [
-          "Alts & Data Management"
+        ],
+        "description": "Overview: We are looking for a Product Manager to support the build, rollout, adoption, and continuous improvement of AI-powered products used across Guidepoint’s expert-network operations. This role sits at the intersection of product management, product operations, workflow automation, AI adoption, and internal tools. The ideal candidate is a hands-on problem solver who can work closely with users, engineering, QA, design, operations, and leadership to turn high-friction workflows into reliable, scalable product systems. The Product Manager will support a portfolio of mature and emerging initiatives by writing clear requirements, managing user feedback, looking at adoption, usage data &amp; analytics, triaging issues, supporting UAT and helping teams make data-driven product improvements. This role is especially important as Guidepoint expands its use of AI, automation, and human-in-the-loop workflows across complex operational processes. What You’ll Do: Product Delivery &amp; Execution Partner with engineering, QA, UX, and business stakeholders to support timely and high-quality delivery of product improvements. Participate in sprint planning, backlog refinement, UAT, release readiness, and post-release review. Help ensure features are tested against real user workflows, edge cases, business rules, and operational expectations. Support rollout planning, user onboarding, training, and adoption follow-ups for new and existing product capabilities. Product Operations &amp; Workflow Support Act as a day-to-day product contact for users Triage bug reports, user questions, change requests, and product feedback. Translate recurring themes into clear product requirements, tickets, acceptance criteria, and follow-up actions. Maintain strong product hygiene across Jira, Confluence, release notes, user documentation, and training materials. AI Workflows &amp; Tools Work with product and engineering teams to ensure AI-driven features are usable, measurable, and aligned with real business workflows. Help identify where automation is working well, where users are intervening, and where product improvements are needed. Metrics, Adoption &amp; Continuous Improvement Track product adoption, usage, user friction, defects, release outcomes, and operational impact. Build and maintain lightweight dashboards, recurring reports, and product health views. Synthesize input from users, support channels, usage data, QA findings, and stakeholder feedback to recommend product improvements. Support quarterly and sprint-level planning by bringing structured insights on product performance, adoption gaps, and user pain points. Cross-Functional Communication Coordinate across Product, Engineering, QA, UX, Client Services, Operations, Compliance, and other stakeholder groups. Communicate product updates, known issues, release timelines, and training needs clearly to internal teams. Help ensure feedback is gathered before and after delivery, and that product decisions are grounded in user needs, business impact, and operational realities. What You Have: 2–4+ years of experience in Product Management, Product Operations, Business Analysis, or Workflow Automation roles. Strong ability to translate ambiguous business problems into clear requirements, user stories, acceptance criteria, and delivery plans. Comfort working with engineering, QA, UX, and business stakeholders in an agile environment. Strong communication skills, verbal &amp; written, including product documentation, release notes, training material, and stakeholder updates. Analytical mindset with experience using product metrics, dashboards, user feedback, and operational data to guide product decisions. Familiarity with AI products, LLM-powered workflows, recommendation systems, human-in-the-loop design, or automation products is strongly preferred. What We Offer: Competitive salary, bonus and benefits Excellent medical coverage through BUPA Excellent professional development opportunities Supportive culture that celebrates and rewards success Monthly Happy Hour, Social Events, Summer Fridays Year-round company sponsored sports and team building events Informal work environment Employee Assistance Programs Volunteer days About Guidepoint : &nbsp; Guidepoint powers end-to-end research workflows for the world’s best research teams. Backed by a global network of more than 2 million experts and over 1,600 employees, Guidepoint delivers real-time access to expertise, primary research, and actionable knowledge that help organizations make informed decisions. Through consultations, surveys, events, proprietary content, and AI-enabled tools, we support every stage of the decision-making process—from developing hypotheses and gathering insights to validating assumptions and building conviction for critical decisions. At Guidepoint, our success relies on the diversity of our employees, experts, and clients, which enables us to foster meaningful connections and a broad range of perspectives. We are committed to creating an inclusive and welcoming environment where individuals of all backgrounds, identities, and experiences can contribute and succeed. #LI-HYBRID #LI-TA1 &nbsp; Find Jobs in United Kingdom on Arbeitnow",
+        "summary": "Overview: We are looking for a Product Manager to support the build, rollout, adoption, and continuous improvement of AI-powered products used across Guidepoint’s expert-network operations.  This role sits at the intersection of product management, product operations, workflow automation, AI adoption, and internal tools.  The Product Manager will support a portfolio of mature and emerging initiatives by writing clear requirements, managing user feedback, looking at adoption, usage data & analytics, triaging issues, supporting UAT and helping teams make data-driven product improvements.",
+        "cv_expectations": [
+          "Quantify products or features launched and their customer or business impact.",
+          "Name the AI/ML systems you shipped and the model, data, or evaluation tradeoffs you owned.",
+          "Include metrics, experiments, and evidence used to make product decisions.",
+          "Demonstrate cross-functional leadership across engineering, design, data, and go-to-market teams."
         ]
       },
       {
@@ -544,6 +226,14 @@
         "remote": false,
         "tags": [
           "Technology"
+        ],
+        "description": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave combines superior infrastructure performance with deep technical expertise to accelerate breakthroughs and turn compute into capability. Founded in 2017, CoreWeave became a publicly traded company (Nasdaq: CRWV) in March 2025. Learn more at&nbsp; www.coreweave.com . &nbsp; We're proud to be a Living Wage accredited Employer. &nbsp; What You'll Do: CoreWeave’s Physical AI team is building the essential cloud platform for AI innovators, applying machine learning to solve previously intractable physics and engineering challenges. We operate at the intersection of advanced cloud infrastructure, artificial intelligence, and applied data science, transforming how complex industrial products - such as automotive systems, aircraft, robotics, advanced manufacturing systems, and batteries - are conceived, tested, and developed. About the role: As a Staff Product Manager, you will own the vision, strategy, and roadmap for one of the core components of our Physical AI platform. We're rebuilding the platform from the ground up, so you'll shape the product from day one. You'll drive execution across Research, Data Science, Engineering, and Forward Deployed Engineering to ship capabilities spanning agentic experiences, applied AI workflows, and enterprise integrations. You will work closely with enterprise customers to understand complex engineering and industrial workflows, identify where emerging AI technologies can create meaningful value, turn field signals into scalable platform improvements, and mentor other product managers across the organisation while setting a high bar for technical depth, product judgement, and customer empathy. What you’ll do Run discovery in the field, and spend time in front of customers Decide what we build. You’ll take a candidate product from problem to validated concept; use case, customer proof points, and the business case for continuing or stopping Ship products in a small squad, setting roadmap and sequencing work required. Keep cross-functional stakeholders aligned. For the products you own: a one-line pitch, short summary and demo that anyone in the company can follow - what it is, why we’re building it, what’s next.&nbsp; Who You Are: Significant experience across product management, product strategy, technical programme leadership, or related roles, with a strong track record of turning complex technologies into products, platforms, or customer outcomes. High versatility with a proven ability to work across multiple technical domains, such as ML modelling, generative AI, agentic workflows, robotics, advanced manufacturing, cloud infrastructure, or data engineering. Strong technical fluency with the ability to confidently discuss APIs, architecture diagrams, deployment models, AI systems, and platform trade-offs with engineers, researchers, and technical customers. Demonstrated cross-functional leadership, skilled at aligning diverse teams across Product, Engineering, Research, Data Science, and commercial functions while managing technical dependencies and balancing constraints with business objectives. Deep customer empathy with a curiosity for understanding complex engineering and industrial workflows, diagnosing friction points, and identifying where new technologies can fundamentally improve how customers work. Absolute execution focus with a proven ability to build clarity out of ambiguity, move comfortably between strategy and hands-on delivery, maintain high attention to detail, and drive initiatives from concept through execution. Preferred: Background in engineering, physical research, robotics, advanced manufacturing, or applied data science, including experience working with physical systems, industrial environments, sensor data, or complex engineering workflows. Familiarity with generative AI, machine learning, or cloud infrastructure platforms such as AWS, GCP, Azure, or CoreWeave, and experience translating emerging technologies into real-world customer applications. Experience with AI-assisted coding or prototyping tools; our PMs are builders first and regularly use technology to explore ideas, validate concepts, and accelerate product development. Wondering if you're a good fit? We believe in investing in our people, and value candidates who can bring their own diversified experiences to our teams even if you aren't a 100% skill or experience match. We recognise that some of the strongest Physical AI product leaders have moved between product, engineering, research, strategy, programme leadership, and industry. Here are a few qualities we've found compatible with our team. If some of this describes you, we'd love to talk. You love to build clarity out of complexity and champion high-impact technical products from concept to launch. You're curious about emerging Physical AI technologies, generative AI, agentic workflows, robotics, and how they can be applied to transform real-world industrial and engineering challenges. You're an expert in cross-functional execution, seamlessly connecting the dots between deeply technical engineering and research teams, enterprise customers, and commercial priorities. Why CoreWeave? At CoreWeave, we work hard, have fun, and move fast! We're in an exciting stage of hyper-growth that you will not want to miss out on. We're not afraid of a little chaos, and we're constantly learning. Our team cares deeply about how we build our product and how we work together, which is represented through our core values: Be Curious at Your Core Act Like an Owner Empower Employees Deliver Best-in-Class Client Experiences Achieve More Together We support and encourage an entrepreneurial outlook and independent thinking. We foster an environment that encourages collaboration and enables the development of innovative solutions to complex problems. As we get set for takeoff, the organisation's growth opportunities are constantly expanding. You will be surrounded by some of the best talent in the industry, who will want to learn from you, too. Come join us! The starting salary will be determined by job-related knowledge, skills, experience, and the market location. We strive for both market alignment and internal equity when determining compensation. In addition to base salary, our total rewards package includes a discretionary bonus, equity awards, and a comprehensive benefits program (all based on eligibility). To fulfill our obligation to protect client data, successful applicants offered employment with CoreWeave will be required to complete a basic criminal record check, conducted in compliance with GDPR. Employment offers are conditional upon receiving satisfactory check results. What We Offer In addition to a competitive salary, we offer a variety of benefits to support your needs, including: Family-level Medical Insurance Family-level Dental Insurance&nbsp; Generous Pension Contribution&nbsp; Life Assurance at 4x Salary&nbsp; Critical Illness Cover&nbsp; Employee Assistance Programme&nbsp; Tuition Reimbursement Work culture focused on innovative disruption Benefits may vary by location.&nbsp; Equal Opportunity&nbsp; CoreWeave is an equal opportunity employer, committed to fostering an inclusive and supportive workplace. All qualified applicants and candidates will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. Recruitment Agencies CoreWeave does not accept speculative CVs. Any unsolicited CVs received will be treated as the property of CoreWeave and your Terms &amp; Conditions associated with the use of CVs will be considered null and void. Any unsolicited CVs sent by your company to us – that is to say, in any situation where we have not directly engaged your company in writing to supply candidates for a specific vacancy – will be considered by us to be a “free gift”, leaving us liable for no fees whatsoever should we choose to contact the candidate directly and engage the candidate’s services, and will in no way establish any prior claim by your company to representation of that candidate should the candidate’s details also be submitted by any other party. Export Control Compliance This position requires access to export controlled information. &nbsp;To conform to U.S. Government export regulations applicable to that information, applicant must either be (A) a U.S. person, defined as a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (green card holder), (iii) refugee under 8 U.S.C. § 1157, or (iv) asylee under 8 U.S.C. § 1158, (B) eligible to access the export controlled information without a required export authorization, or (C) eligible and reasonably likely to obtain the required export authorization from the applicable U.S. government agency. &nbsp;CoreWeave may, for legitimate business reasons, decline to pursue any export licensing process. &nbsp; Updated privacy notice - UK and EU Job Applications&nbsp; When you apply to a job on this site, the personal data contained in your application will be collected by CoreWeave UK Ltd. (“Controller”), which is located at Phosphor (6th Floor), 133 Park Street, London, SE1 9EA and can be contacted by emailing ----- Controller’s data protection officer can be contacted at ----- Your personal data will be processed for the purposes of managing Controller’s recruitment related activities, which include setting up and conducting interviews and tests for applicants, evaluating and assessing the results thereto, and as is otherwise needed in the recruitment and hiring processes. Such processing is legally permissible under Art. 6(1)(f) of (i) Regulation (EU) 2016/679 (General Data Protection Regulation (“GDPR”) and (ii) the GDPR as it forms part of the laws of the UK (“UK GDPR”), as necessary for the purposes of the legitimate interests pursued by the Controller, which are the solicitation, evaluation, and selection of applicants for employment. Your personal data will be shared with Greenhouse Software, Inc., a cloud services provider located in the United States of America and engaged by Controller to help manage its recruitment and hiring process on Controller’s behalf. With respect to transfers originating from the UK or the European Economic Area (\"EEA\") to a country outside the UK or the EEA, we implement the appropriate transfer mechanism(s) and other appropriate solutions to address cross-border transfers as required by applicable law. You may request a copy of the suitable mechanisms we have in place by contacting us at Your personal data will be retained by Controller as long as Controller determines it is necessary to evaluate your application for employment. Where permitted by applicable law, we may also retain your personal data for a limited period after the recruitment process ends in order to consider you for future job opportunities, respond to legal claims, or comply with record-keeping obligations. Under the GDPR and the UK GDPR, you have the right to request access to your personal data, to request that your personal data be rectified or erased, and to request that processing of your personal data be restricted. You also have the right to data portability. In addition, you may lodge a complaint with the relevant supervisory authority: (i) A list of Europe’s data protection authorities can be found here ; and (ii) for the UK, this is the Information Commissioner's Office . &nbsp; For additional information, please see our Privacy Policy . Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+        "summary": "Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence.  What You'll Do: CoreWeave’s Physical AI team is building the essential cloud platform for AI innovators, applying machine learning to solve previously intractable physics and engineering challenges.  About the role: As a Staff Product Manager, you will own the vision, strategy, and roadmap for one of the core components of our Physical AI platform.",
+        "cv_expectations": [
+          "Show product strategy, roadmap ownership, and prioritization outcomes.",
+          "Quantify products or features launched and their customer or business impact.",
+          "Name the AI/ML systems you shipped and the model, data, or evaluation tradeoffs you owned.",
+          "Demonstrate cross-functional leadership across engineering, design, data, and go-to-market teams."
         ]
       },
       {
@@ -556,49 +246,14 @@
         "remote": false,
         "tags": [
           "Monolith T&I"
-        ]
-      },
-      {
-        "title": "Senior/Tech Lead Backend Engineer (Managed Kubernetes)",
-        "company": "Nebius",
-        "location": "",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-tech-lead-backend-engineer-managed-kubernetes-388791",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-05",
-        "remote": false,
-        "tags": [
-          "Backend"
-        ]
-      },
-      {
-        "title": "Software quality engineer (UK)",
-        "company": "Writer",
-        "location": "London, UK",
-        "url": "https://www.arbeitnow.co.uk/jobs/companies/writer/software-quality-engineer-uk-london-220045",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-05",
-        "remote": false,
-        "tags": [
-          "Engineering",
-          "product & design"
-        ]
-      },
-      {
-        "title": "Senior Independent AI Engineer / Architect",
-        "company": "A.Team",
-        "location": "Americas, Europe, Israel",
-        "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-        "source": "Remotive",
-        "posted_date": "2026-08-16",
-        "remote": true,
-        "tags": [
-          "go",
-          "UI/UX",
-          "wordpress",
-          "chat",
-          "apple",
-          "testing",
-          "catalyst"
+        ],
+        "description": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave combines superior infrastructure performance with deep technical expertise to accelerate breakthroughs and turn compute into capability. Founded in 2017, CoreWeave became a publicly traded company (Nasdaq: CRWV) in March 2025. Learn more at&nbsp; www.coreweave.com . &nbsp; We're proud to be a Living Wage accredited Employer. &nbsp; What You'll Do: CoreWeave’s Physical AI team builds the essential cloud platform for AI innovators, applying machine learning to solve previously intractable physics and engineering challenges. We operate at the intersection of advanced cloud infrastructure, artificial intelligence, and applied data science to transform how complex industrial products and systems are conceived, tested, and developed. About the role:&nbsp; As a Staff Product Manager, you will own the vision, strategy, roadmap, and end-to-end delivery for products within CoreWeave’s Physical AI portfolio. Your primary focus will be data-centre design: replacing manual, spreadsheet-driven processes with dependable internal products that convert power budgets into rack-and-pod layouts, cabling, and physical floor plans. In this role, you will conduct field discovery with data-centre engineers, translate tacit domain expertise into explicit parametric rules, and sequence product rollout from logical sizing to physical layout optimization. Additionally, you will utilize AI-assisted prototyping tools directly, validate product accuracy against completed site data, align cross-functional stakeholders across Engineering and Research, and evaluate future expansion opportunities across the Physical AI ecosystem. Who You Are: Significant professional experience in product management, product strategy, technical programme leadership, or related roles, with a track record of driving complex technologies from initial concept through broad adoption. Proven ability to navigate ambiguous, technically complex domains, owning end-to-end problem definition, business case formulation, prototyping, and user adoption. Technical fluency across infrastructure domains (e.g., networking, power, systems engineering) with demonstrated ability to translate tacit expert knowledge into formal parameters, constraints, and generative logic. Hands-on familiarity with AI-assisted development tools and coding literacy sufficient to read, shape, and test prototype outputs. Strong cross-functional leadership skills with experience aligning Product, Engineering, Research, Data Science, and operational teams around shared priorities. Deep user empathy and a data-driven approach to measuring product outcomes, time savings, and capex impact against real-world metrics. Preferred: Academic or professional background in engineering, physical research, data-centre design, networking, High-Performance Computing (HPC), or related industrial fields. Experience with parametric design, optimization algorithms, operations research, placement/routing logic, or combinatorial search. Familiarity with cloud infrastructure platforms, 2D/3D CAD representations, or frontend/JavaScript visualization frameworks. Wondering if you're a good fit?&nbsp; We believe in investing in our people, and value candidates who can bring their own diversified experiences to our teams—even if you aren't a 100% skill or experience match. Here are a few qualities we've found compatible with our team. If some of this describes you, we'd love to talk. You love to build clarity out of complexity and champion high-impact technical products from concept through adoption. You're curious about how AI, automation, and rules-driven design can transform real-world infrastructure and engineering workflows. You're an expert in connecting deeply technical domain experts, product and engineering teams, operational users, and business priorities. Why CoreWeave? At CoreWeave, we work hard, have fun, and move fast! We're in an exciting stage of hyper-growth that you will not want to miss out on. We're not afraid of a little chaos, and we're constantly learning. Our team cares deeply about how we build our product and how we work together, which is represented through our core values: Be Curious at Your Core Act Like an Owner Empower Employees Deliver Best-in-Class Client Experiences Achieve More Together We support and encourage an entrepreneurial outlook and independent thinking. We foster an environment that encourages collaboration and enables the development of innovative solutions to complex problems. As we get set for takeoff, the organisation's growth opportunities are constantly expanding. You will be surrounded by some of the best talent in the industry, who will want to learn from you, too. Come join us! The starting salary will be determined by job-related knowledge, skills, experience, and the market location. We strive for both market alignment and internal equity when determining compensation. In addition to base salary, our total rewards package includes a discretionary bonus, equity awards, and a comprehensive benefits program (all based on eligibility). To fulfill our obligation to protect client data, successful applicants offered employment with CoreWeave will be required to complete a basic criminal record check, conducted in compliance with GDPR. Employment offers are conditional upon receiving satisfactory check results. What We Offer In addition to a competitive salary, we offer a variety of benefits to support your needs, including: Family-level Medical Insurance Family-level Dental Insurance&nbsp; Generous Pension Contribution&nbsp; Life Assurance at 4x Salary&nbsp; Critical Illness Cover&nbsp; Employee Assistance Programme&nbsp; Tuition Reimbursement Work culture focused on innovative disruption Benefits may vary by location.&nbsp; Equal Opportunity&nbsp; CoreWeave is an equal opportunity employer, committed to fostering an inclusive and supportive workplace. All qualified applicants and candidates will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. Recruitment Agencies CoreWeave does not accept speculative CVs. Any unsolicited CVs received will be treated as the property of CoreWeave and your Terms &amp; Conditions associated with the use of CVs will be considered null and void. Any unsolicited CVs sent by your company to us – that is to say, in any situation where we have not directly engaged your company in writing to supply candidates for a specific vacancy – will be considered by us to be a “free gift”, leaving us liable for no fees whatsoever should we choose to contact the candidate directly and engage the candidate’s services, and will in no way establish any prior claim by your company to representation of that candidate should the candidate’s details also be submitted by any other party. Export Control Compliance This position requires access to export controlled information. &nbsp;To conform to U.S. Government export regulations applicable to that information, applicant must either be (A) a U.S. person, defined as a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (green card holder), (iii) refugee under 8 U.S.C. § 1157, or (iv) asylee under 8 U.S.C. § 1158, (B) eligible to access the export controlled information without a required export authorization, or (C) eligible and reasonably likely to obtain the required export authorization from the applicable U.S. government agency. &nbsp;CoreWeave may, for legitimate business reasons, decline to pursue any export licensing process. &nbsp; Updated privacy notice - UK and EU Job Applications&nbsp; When you apply to a job on this site, the personal data contained in your application will be collected by CoreWeave UK Ltd. (“Controller”), which is located at Phosphor (6th Floor), 133 Park Street, London, SE1 9EA and can be contacted by emailing ----- Controller’s data protection officer can be contacted at ----- Your personal data will be processed for the purposes of managing Controller’s recruitment related activities, which include setting up and conducting interviews and tests for applicants, evaluating and assessing the results thereto, and as is otherwise needed in the recruitment and hiring processes. Such processing is legally permissible under Art. 6(1)(f) of (i) Regulation (EU) 2016/679 (General Data Protection Regulation (“GDPR”) and (ii) the GDPR as it forms part of the laws of the UK (“UK GDPR”), as necessary for the purposes of the legitimate interests pursued by the Controller, which are the solicitation, evaluation, and selection of applicants for employment. Your personal data will be shared with Greenhouse Software, Inc., a cloud services provider located in the United States of America and engaged by Controller to help manage its recruitment and hiring process on Controller’s behalf. With respect to transfers originating from the UK or the European Economic Area (\"EEA\") to a country outside the UK or the EEA, we implement the appropriate transfer mechanism(s) and other appropriate solutions to address cross-border transfers as required by applicable law. You may request a copy of the suitable mechanisms we have in place by contacting us at Your personal data will be retained by Controller as long as Controller determines it is necessary to evaluate your application for employment. Where permitted by applicable law, we may also retain your personal data for a limited period after the recruitment process ends in order to consider you for future job opportunities, respond to legal claims, or comply with record-keeping obligations. Under the GDPR and the UK GDPR, you have the right to request access to your personal data, to request that your personal data be rectified or erased, and to request that processing of your personal data be restricted. You also have the right to data portability. In addition, you may lodge a complaint with the relevant supervisory authority: (i) A list of Europe’s data protection authorities can be found here ; and (ii) for the UK, this is the Information Commissioner's Office . &nbsp; For additional information, please see our Privacy Policy . Find Jobs in United Kingdom on Arbeitnow",
+        "summary": "Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence.  What You'll Do: CoreWeave’s Physical AI team builds the essential cloud platform for AI innovators, applying machine learning to solve previously intractable physics and engineering challenges.  About the role: As a Staff Product Manager, you will own the vision, strategy, roadmap, and end-to-end delivery for products within CoreWeave’s Physical AI portfolio.",
+        "cv_expectations": [
+          "Show product strategy, roadmap ownership, and prioritization outcomes.",
+          "Quantify products or features launched and their customer or business impact.",
+          "Name the AI/ML systems you shipped and the model, data, or evaluation tradeoffs you owned.",
+          "Include metrics, experiments, and evidence used to make product decisions."
         ]
       }
     ]
