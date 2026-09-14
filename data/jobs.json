@@ -190,57 +190,11 @@
     ]
   },
   "live_feed": {
-    "generated_at": "2026-09-13T08:20:03.467Z",
+    "generated_at": "2026-09-14T08:57:06.816Z",
     "sources": [
       "Remotive API",
       "Arbeitnow API"
     ],
-    "jobs": [
-      {
-        "title": "Product Manager AI Search (m/w/d)",
-        "company": "Moebel De",
-        "location": "Hamburg",
-        "url": "https://www.arbeitnow.com/jobs/companies/moebel-de/remote-product-manager-ai-search-hamburg-292991",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-13",
-        "remote": true,
-        "tags": [
-          "KI",
-          "AI",
-          "Künstliche Intelligenz",
-          "E-Commerce",
-          "Produktmanager",
-          "Homeoffice",
-          "Hybrid",
-          "Remote",
-          "Online",
-          "Product Owner",
-          "Technical/Digital Product Manager"
-        ],
-        "description": "Unser Projekt für Dich: moebel.de ist eines der führenden Online-Shoppingportale für Möbel und Einrichtung in Europa. Unser neues Projekt Piqit ist ein KI-gestützter Shopping-Assistant, der die Art und Weise verändert, wie Menschen online Produkte finden und kaufen. Piqit berät den Nutzer interaktiv und findet passende Produkte aus über 100 Millionen Angeboten , vergleicht Preise über zahlreiche Shops hinweg und führt direkt zum passenden Anbieter – von Wein und Werkzeug über Elektronik und Haushaltsgeräte bis hin zu Beauty, Schmuck und Möbeln. Dafür suchen wir dich als Product Manager AI Search (m/w/d) . Deine zukünftigen Aufgaben Vom ersten Tag an mittendrin statt nur dabei: Du verantwortest die Antwortqualität von Piqit, unserem KI-gestützten Shopping-Assistant, der aus über 100 Millionen Angeboten das passende Produkt findet – und zwar von der ersten Beobachtung bis zur ausgerollten Änderung. Qualität heißt hier nicht Treffermenge, sondern Antwort: Du prüfst, ob Piqit verstanden hat, worum es geht, ob die vorgeschlagenen Produkte wirklich die richtigen sind und ob die Einordnung dazu trägt. Ursachenforschung ist deine Kerndisziplin: Wenn eine Antwort nicht überzeugt, unterscheidest du sicher, ob die passenden Produkte gar nicht gefunden wurden, ob in den Produktdaten ein Attribut fehlt oder falsch belegt ist oder ob das Modell aus guten Daten etwas Falsches gemacht hat. Du kennst die Eigenheiten von Sprachmodellen: stark bei Absicht, Nuance und Sprache, unzuverlässig bei exakten Zahlen, Vollständigkeit und Aktualität – und dabei immer überzeugend klingend. Genau dieses Gespür bringst du in jede Entscheidung ein. Hands-on statt Konzeptpapier: Prompt-Sets, Hints und Regeln schreibst und rollst du selbst aus, Attribute und Facetten schärfst du selbst nach, Testsets baust du selbst – und wiederkehrende Handgriffe automatisierst du weg, gern KI-gestützt. Du misst, was wirkt: Einzelfälle sind kein Beleg, dieselbe Anfrage kann zweimal unterschiedlich beantwortet werden. Du prüfst gegen eine feste Sammlung von Testanfragen und bewertest die Veränderung über alle hinweg. Der Weg von der Beobachtung zur Änderung ist kurz, vieles geht am selben Tag live. Du bist Sparringspartner:in für Data und Engineering: Für Themen, die tiefer in der Pipeline liegen, arbeitest du eng mit den Fachbereichen zusammen. Was du nicht selbst umsetzen kannst, übersetzt du in fundierte Anforderungen an Engineering und Data – mit Beispielen, Zahlen und einer klaren Priorisierung. Neue Shops, neue Daten: Du begleitest die Partneranbindung, prüfst, was die Antwortqualität wirklich trägt, und sagst klar, wenn ein Sortiment noch nicht live gehen sollte. Kategorie-Management ist dein Schlüssel: Kategorien, Attribute und Facetten entscheiden mit darüber, was der Assistent über ein Produkt überhaupt weiß – und weil semantische Ähnlichkeit allein nicht reicht, sobald es um Maße, Kompatibilität oder harte Grenzen geht, legst du hier selbst mit Hand an. Deine Stärken Du kannst relevante Berufserfahrung im E-Commerce, im Produktmanagement oder in einer vergleichbaren Rolle vorweisen, in der du ein Produkt wirklich vorangetrieben und nicht nur begleitet hast Eine ausgeprägte Hands-on-Mentalität zeichnet dich aus – du willst Dinge selbst bauen und live sehen, statt sie zu delegieren und nachzuhalten Mit Sprachmodellen hast du über gelegentliches Prompting hinaus praktisch gearbeitet: Du hast Prompts systematisch verbessert, Ergebnisse verglichen und weißt, wo diese Systeme kippen – idealerweise mit Lösungen wie Claude, ChatGPT oder Gemini Durch dein Gespür für Nutzerbedürfnisse erkennst du, was hinter einer Anfrage steckt und wann eine Antwort nur oberflächlich passt Du überzeugst durch eine selbstständige, ergebnisorientierte Arbeitsweise und hast Lust, deine Ideen aktiv im Team einzubringen Technisch bist du anschlussfähig: Du liest eine API-Antwort, verstehst eine Datenstruktur und hast keine Scheu vor SQL – programmieren musst du nicht, selbst anpacken schon Erfahrung mit Retrieval, Ranking oder semantischer Suche sowie mit dem Aufbau von Evals und Testsets ist wünschenswert Kenntnisse in Produktdaten, Feeds, Taxonomien und Attributsystemen sind von Vorteil, ebenso Erfahrung mit Automatisierungsplattformen wie n8n, Make oder Python sowie mit MCP- und Agenten-Anbindungen Deutsch beherrschst du verhandlungssicher, gute Englischkenntnisse bringst du mit Unser Angebot Dein Tagesablauf gehört dir Arbeite dann, wenn du am produktivsten bist. Ob Früh- oder Spätaufsteher: Bei uns passt du deine Arbeitszeiten flexibel an – in enger Abstimmung mit deinem Team. Zeitweise Arbeiten aus dem europäischen Ausland? Kein Problem. Dein Laptop ist dein Arbeitsplatz. Unsere Kultur ist einmalig Hier sitzen alle auf derselben Couch – unabhängig von Titel oder Rolle. Teamspirit leben wir digital und vor Ort, z. B. bei Gaming Nights, Workouts, Filmabenden oder Teamevents. Viermal im Jahr treffen wir uns zur Company Week Gemeinsam im Büro arbeiten, Projekte pushen, Pizzabende genießen und mit einer Party abschließen. Mitten in Hamburg Zentral gelegen zwischen Hauptbahnhof, Mönckebergstraße und Binnenalster – perfekt für Lunch-Dates, Pausen an der Alster oder einen Feierabendbummel. Wir freuen uns auf Deine Bewerbung! Bitte richte Deine Bewerbungsunterlagen ausschließlich mithilfe unseres Online-Bewerbungsformulars direkt an unser Recruiting Team. Find Jobs in Germany on Arbeitnow",
-        "summary": "Dafür suchen wir dich als Product Manager AI Search (m/w/d) .",
-        "cv_expectations": [
-          "Name the AI/ML systems you shipped and the model, data, or evaluation tradeoffs you owned.",
-          "Demonstrate cross-functional leadership across engineering, design, data, and go-to-market teams."
-        ]
-      },
-      {
-        "title": "Product Owner AI (m/f/d)",
-        "company": "Ocumeda Ag",
-        "location": "München",
-        "url": "https://www.arbeitnow.com/jobs/companies/ocumeda-ag/product-owner-ai-munchen-243260",
-        "source": "Arbeitnow",
-        "posted_date": "2026-09-12",
-        "remote": false,
-        "tags": [],
-        "description": "Your role at Ocumeda We are looking for a Product Owner AI (m/f/d) to take ownership of a new AI-based medical device. You will own the product's technical specification, backlog and requirements end-to-end, from feature scoping through implementation and international roll-out, acting as the central point between our medical, regulatory, and AI team. If you're motivated to take ownership of a product and shape it within a growing MedTech company, this role is for you. Own the product end-to-end: from feature scoping through implementation, launch, and international roll-out Translate medical and business requirements into clear technical specifications and a prioritized backlog, based on input from users, markets, and internal stakeholders Support the MDR process by bringing technical and product input into Regulatory's decisions on intended use, risk, and output presentation Own the software requirements specification (SRS) and work closely with our AI team to specify and integrate the MDR-certified AI system into the product Work with the product team to bring the device live across multiple markets on our existing platform, adapting to local requirements where needed What makes you a great fit You have a technical background or hands-on experience with software/API specifications, and you're comfortable moving fluidly between technical AI/engineering details and the regulatory, medical, and business perspectives, translating in both directions You are motivated to work hands-on in a startup environment, balancing pragmatism with structure You take ownership, work in a structured way, and have the drive to push things forward, while collaborating closely with the team. You collaborate closely with the medical, regulatory and AI team to ensure smooth execution and alignment. You are fluent in English (additional languages are a plus, but not required) You bring relevant experience in product management or a comparable role, ideally with exposure to AI products, regulated environments (e.g. MDR), or internationalization What you can expect from us Flexible working hours and hybrid work with home office options Subsidized Deutschlandticket (public transport pass) for employees Personal learning & development budget for trainings, conferences, and professional growth High level of ownership, fast decision-making, and real opportunities to help shape the company Regular feedback, short decision paths, and individual development opportunities International team with close collaboration, regular exchange, and shared team events Collaboration with experts from optometry, ophthalmology, software & AI development, and strategy consulting Monthly contribution toward a Wellpass membership Free access to Nilo Health for mental health and wellbeing Competitive salary matching your role and experience Modern, dog-friendly office in the heart of Munich, close to the main train station (Hauptbahnhof) Contributing to a leading teleophthalmology platform that sustainably improves access to eye care Established B2B2C model with over 800 partner optician locations and more than 500,000 screenings performed Find Jobs in Germany on Arbeitnow",
-        "summary": "Your role at Ocumeda We are looking for a Product Owner AI (m/f/d) to take ownership of a new AI-based medical device.  You will own the product's technical specification, backlog and requirements end-to-end, from feature scoping through implementation and international roll-out, acting as the central point between our medical, regulatory, and AI team.  If you're motivated to take ownership of a product and shape it within a growing MedTech company, this role is for you.",
-        "cv_expectations": [
-          "Quantify products or features launched and their customer or business impact.",
-          "Name the AI/ML systems you shipped and the model, data, or evaluation tradeoffs you owned.",
-          "Demonstrate cross-functional leadership across engineering, design, data, and go-to-market teams."
-        ]
-      }
-    ]
+    "jobs": []
   }
 }
