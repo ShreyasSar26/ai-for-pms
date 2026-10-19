@@ -190,11 +190,31 @@
     ]
   },
   "live_feed": {
-    "generated_at": "2026-10-18T08:03:35.794Z",
+    "generated_at": "2026-10-19T08:54:59.655Z",
     "sources": [
       "Remotive API",
       "Arbeitnow API"
     ],
-    "jobs": []
+    "jobs": [
+      {
+        "title": "(Junior) Product Manager & Venture Builder (m/w/d) – AI & Tech",
+        "company": "VT Netzwelt GmbH",
+        "location": "Berlin",
+        "url": "https://www.arbeitnow.com/jobs/companies/vt-netzwelt-gmbh/junior-product-manager-venture-builder-ai-tech-berlin-497683",
+        "source": "Arbeitnow",
+        "posted_date": "2026-10-18",
+        "remote": false,
+        "tags": [
+          "Product Management"
+        ],
+        "description": "Build fast. Ship faster. In Wochen von der Idee zum validierten Produkt. VT Netzwelt entwickelt digitale Produkte und Ventures mit echtem Impact: von der ersten Idee bis zur Marktreife, mit eigenem Kapital, eigener Vision und eigenem Risiko. Ein Team, das tief genug im Code steckt, um Produktentscheidungen technisch fundiert zu treffen und schnell genug, um live zu sein, während andere noch Roadmaps schreiben. Als Junior Product Manager / Venture Builder steigst du nicht irgendwo mit ein: Du übernimmst von Tag 1 an die volle Verantwortung für wesentliche Teile unserer Ventures. Was du bei uns machst Ownership statt Zuarbeit: Du verantwortest eigene Projektstränge unserer Ventures – mit echter Entscheidungsgewalt über Umsetzung, Priorisierung und strategische Richtung. Von der Idee zum Produkt: Du steuerst digitale Lösungen von der ersten Hypothese bis zur Marktreife – inklusive technischer Machbarkeitsprüfung. Kurze Zyklen, frühe Validierung, schnelles Feedback: Wir bauen, testen, verwerfen was nicht funktioniert und skalieren, was zieht. AI & Tech-Scouting: Du bist an der Speerspitze neuer KI-Tools und Technologien, testest sie, bewertest ihren strategischen Mehrwert und integrierst sie in unsere Produkte, bevor es der Markt tut. Rapid Prototyping & R&D: Du treibst den Prozess, aus Ideen innerhalb weniger Tage testbare Prototypen zu machen, und unterscheidest messbare Machbarkeit präzise von Wunschdenken. Was du mitbringst Ausbildung: Erfolgreich abgeschlossenes Studium (Wirtschaftsinformatik, Informatik, Entrepreneurship oder vergleichbar) oder relevante Praxiserfahrung in einem technologiegetriebenen Umfeld. Tiefes technisches Verständnis: Du verstehst die Architektur moderner Softwareentwicklung und kannst auf Augenhöhe mit Developer-Teams kommunizieren, auch wenn du nicht täglich selbst codest. Proaktivität & Drive: Analytisches Denken, schnelle Auffassungsgabe und die Fähigkeit, in unklaren Situationen eigenständig Lösungen zu entwickeln, statt auf Anweisungen zu warten. AI-Native Mindset: Fundiertes Verständnis und praktische Erfahrung mit AI-assisted / AI-native Development-Prozessen. Macher-Mentalität: Hunger auf Neues – du willst skalierbare Produkte bauen und weiterentwickeln, nicht nur bestehende Strukturen verwalten. Sprachkenntnisse: verhandlungssichere Deutsch- und Englischkenntnisse in Wort und Schrift. Arbeitsweise: Hohe Eigenverantwortung, Belastbarkeit für ein hohes Tempo und die Fähigkeit, ohne Micromanagement verlässliche Ergebnisse zu liefern. Was dich erwartet Echte Verantwortung & Impact: Du triffst operative und strategische Produktentscheidungen für Features und Ventures, die direkt live gehen. Eigene Ventures statt Agenturgeschäft: Du baust eigene Produkte von der ersten Idee bis zum Markteintritt auf – mit allen Facetten des Entrepreneurships. Strategisches Mentoring: Direkte Zusammenarbeit, Sparring und ehrliches Feedback von erfahrenen Gründern und Tech-Leadern. Flache Hierarchien & Macherkultur: Deine Ideen und Argumente zählen – unabhängig von Hierarchiestufen. Flexibles Setup: Hybrides Arbeiten (Office in Berlin + Homeoffice-Option) und flexible Arbeitszeiten. Attraktives Paket: Wettbewerbsfähiges Vollzeit-Gehalt, das deiner Verantwortung und deinen Ergebnissen entspricht. Wenn du Lust hast, an echten Produkten mitzubauen, eigene Ventures zu skalieren und Verantwortung zu übernehmen, bewirb dich jetzt! Find Jobs in Germany on Arbeitnow",
+        "summary": "Build fast.  Als Junior Product Manager / Venture Builder steigst du nicht irgendwo mit ein: Du übernimmst von Tag 1 an die volle Verantwortung für wesentliche Teile unserer Ventures.  Proaktivität & Drive: Analytisches Denken, schnelle Auffassungsgabe und die Fähigkeit, in unklaren Situationen eigenständig Lösungen zu entwickeln, statt auf Anweisungen zu warten.",
+        "cv_expectations": [
+          "Show product strategy, roadmap ownership, and prioritization outcomes.",
+          "Quantify products or features launched and their customer or business impact.",
+          "Name the AI/ML systems you shipped and the model, data, or evaluation tradeoffs you owned."
+        ]
+      }
+    ]
   }
 }
