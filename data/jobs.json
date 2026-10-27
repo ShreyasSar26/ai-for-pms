@@ -190,11 +190,32 @@
     ]
   },
   "live_feed": {
-    "generated_at": "2026-10-26T08:57:33.404Z",
+    "generated_at": "2026-10-27T09:01:32.368Z",
     "sources": [
       "Remotive API",
       "Arbeitnow API"
     ],
-    "jobs": []
+    "jobs": [
+      {
+        "title": "Junior Product Manager – IT Fulfillment",
+        "company": "Suitsupply",
+        "location": "Amsterdam",
+        "url": "https://www.arbeitnow.nl/jobs/companies/suitsupply/junior-product-manager-it-fulfillment-amsterdam-209861",
+        "source": "Arbeitnow",
+        "posted_date": "2026-10-27",
+        "remote": false,
+        "tags": [
+          "IT Development"
+        ],
+        "description": "Every order a Suitsupply customer places, online, in a store, or through customer service, has to be captured, understood and carried all the way through to delivery or return. As Junior Product Manager for IT Fulfillment, you will help build and improve the services that make that happen: the order flows, data and interfaces that connect our webstore, our stores, our warehouses and our customer service teams. You will work in a small team inside the IT Fulfillment domain, alongside the Group Product Manager and our own engineers. The Group Product Manager shapes the functional direction with the business and sets priorities; together you turn it into clear requirements, well-defined tickets and working software, built with engineers and AI agents. This is a technical product role: we build our own services, so you will spend your time in data models, interfaces and requirements rather than managing a vendor’s roadmap. You start close to delivery, with support while you learn the domain, and grow into owning more of the roadmap. What you will do Turn mapped-out functional flows into clear, buildable work: technical requirements, acceptance criteria and user stories that engineers and AI agents can pick up without coming back with questions. Own the detail as both product manager and business analyst: the data model, the way systems talk to each other, and the edge cases nobody thought of yet. Break large changes into chunks that can be built, tested and released safely, and keep the backlog in a state where work can start at any moment. Work with engineers day to day in refinement, planning, reviews and releases, and use our AI tooling to draft, structure and pressure-test the work before it reaches them. Design our order data and interfaces so that AI agents can read, reason over and act on them as reliably as our own systems do. Create visibility across the end-to-end fulfillment journey, so anyone from a customer service agent to a supply chain lead can see where an order is and what happened to it, and turn that into measures the business trusts. Take on discovery for smaller and mid-sized roadmap items as your domain knowledge builds: the options, the trade-offs and the recommendation. Who you are Business analysis experience: 2+ years of hands-on experience as a Business Analyst or Product Owner. You have written functional and technical specifications, worked directly with developers, and been accountable for the detail being right. The analysis craft is what we are hiring for. Domain experience: That experience is in fulfillment, order management, supply chain, e-commerce or retail operations. You know what an order, a shipment, an allocation and a return actually are, and what it costs operationally when one goes wrong. Eye for detail: You chase the last open question rather than leaving it for someone else to find in production. AI-native mindset: You already work with tools like Claude and Cursor every day to analyse, draft, prototype and check your own thinking, and you know what to hand over and what to validate yourself. Technical fluency: You can hold your own in a technical conversation without being an engineer, and you say “I don’t understand that yet” rather than guessing. Communication: You are a clear writer who asks the uncomfortable question early rather than the polite one late. Education: Bachelor’s or Master’s degree in Business, Technology, or a related field, or equivalent experience. What you will get Autonomy: We empower you to take ownership, make meaningful decisions, and drive impact close to our customers. Growth: You will develop within a high-performance digital product environment, increasing your business impact and decision scope over time. Corporate Social Responsibility: Our commitment to sustainability and ethical business is unwavering. We work exclusively with suppliers who uphold the highest standards, in alignment with the International Labour Organization. Style: Immerse yourself in a world of beautifully crafted, high-quality products, and enjoy a 40% discount on Suitsupply products. Compensation: We offer a competitive salary based on relevant skills and experience. Find more English Speaking Jobs in Netherlands on Arbeitnow",
+        "summary": "As Junior Product Manager for IT Fulfillment, you will help build and improve the services that make that happen: the order flows, data and interfaces that connect our webstore, our stores, our warehouses and our customer service teams.  You will work in a small team inside the IT Fulfillment domain, alongside the Group Product Manager and our own engineers.  The Group Product Manager shapes the functional direction with the business and sets priorities; together you turn it into clear requirements, well-defined tickets and working software, built with engineers and AI agents.",
+        "cv_expectations": [
+          "Show product strategy, roadmap ownership, and prioritization outcomes.",
+          "Quantify products or features launched and their customer or business impact.",
+          "Name the AI/ML systems you shipped and the model, data, or evaluation tradeoffs you owned.",
+          "Demonstrate cross-functional leadership across engineering, design, data, and go-to-market teams."
+        ]
+      }
+    ]
   }
 }
