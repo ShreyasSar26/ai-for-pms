@@ -190,11 +190,31 @@
     ]
   },
   "live_feed": {
-    "generated_at": "2026-11-01T10:29:14.349Z",
+    "generated_at": "2026-11-02T11:10:36.389Z",
     "sources": [
       "Remotive API",
       "Arbeitnow API"
     ],
-    "jobs": []
+    "jobs": [
+      {
+        "title": "AI Product Builder - AI Product Manager - H/F",
+        "company": "Thiga",
+        "location": "Paris",
+        "url": "https://www.arbeitnow.fr/jobs/companies/thiga/ai-product-builder-ai-product-manager-h-f-paris-281626",
+        "source": "Arbeitnow",
+        "posted_date": "2026-11-02",
+        "remote": false,
+        "tags": [
+          "Consulting"
+        ],
+        "description": "Une révolution en marche Nous sommes à l'aube d'une transformation majeure qui redéfinit le paysage tech. Chez Thiga, nous sommes convaincus que l'Intelligence Artificielle n'est pas juste une tendance - c'est une révolution qui transforme fondamentalement la façon dont nous concevons et développons des produits. Notre ambition? Être les pionniers de cette révolution agentique qui renforce les connexions humaines. Notre vision Nous croyons que l'IA va redéfinir : - La façon dont nous concevons et développons des produits - La manière dont les équipes créent des produits - La manière dont les consultants font du conseil Une opportunité unique Nous sommes à un moment charnière où tout est possible. Chez Thiga, nous sommes Market Maker, c’est dans notre ADN depuis 10 ans. Nous montons une équipe R&D qui va nous permettre de réinventer le Product Management dans l'industrie tech. En tant que Product Builder et/ou Product Manager IA , tu seras en immersion au sein des équipes de nos clients. Tu travailleras pour des sociétés allant de la Startup française au grand groupe international, dans des secteurs variés, pour identifier et développer des opportunités IA qui créent de la valeur. Ta mission : Exploration et Innovation - Identifier des opportunités IA pour nos clients et pour le cabinet - Prototyper rapidement des solutions agentiques avec des outils no code/low code (V0, n8n, etc.) - Réaliser une veille permanente et explorer les dernières innovations - Évaluer et sélectionner les technologies IA pertinentes - Participer à notre équipe R&D pour positionner Thiga comme leader du marché Expertise produit & IA - Établir une vision produit \"claire\" et identifier les incertitudes liées à l'IA - Définir la stratégie et roadmap de produits IA - Implémenter et intégrer des capacités d'IA dans les applications - Faire vivre le cycle de vie de produits IA, de l‘expérimentation à la généralisation - Définir les MVP et itérations qui permettront d'atteindre la vision - Analyser les performances des solutions IA et identifier les leviers d'amélioration Accompagnement au changement - Comprendre les impacts organisationnels des solutions IA proposées - Concevoir et déployer des stratégies d'adoption adaptées aux différentes parties prenantes - Identifier et lever les résistances potentielles face à l'IA - Accompagner la montée en compétence des équipes et utilisateurs sur les nouvelles solutions - Mesurer l'adoption et ajuster les approches pour maximiser l'impact Tu as le profil si : - Tu as une très bonne culture IA : tu connais les champs d'application et les enjeux de la création de produits basés sur l'IA générative - Tu comprends ce qu'est un système agentique et ses applications potentielles - Tu comprends les concepts clés de prompt engineering et RAG (Retrieval-Augmented Generation) avec expérience pratique des LLMs (directement et via API) - Tu es capable de prototyper rapidement des solutions IA via des outils no code/low code - Tu maîtrises les pratiques agiles (méthodo Scrum & Kanban) - Les méthodes de création de produits numériques comme le Design Thinking et le Lean Startup n'ont plus de secret pour toi - Tu sais adopter le bon niveau de discours pour aligner des équipes techniques et métier - You speak English Les petits plus : - Tu maîtrises les frameworks IA comme LangChain, LlamaIndex ou similaires - Tu as de l'expérience concrète avec les systèmes agentiques - Tu as de l'expérience avec les applications IA multimodales (voix, vision, texte) - Tu as une compréhension des architectures cloud pour déployer des solutions IA Pourquoi nous rejoindre ? tu aimes : - Travailler sur différents projets clients chaque année, explorant constamment de nouvelles idées - Faire partie d'une équipe passionnée et collaborative qui redéfinit le développement produit avec l'IA - Les projets clients stimulants et variésUne culture d'entreprise qui valorise la curiosité et l'innovation - Contribuer à une adoption réussie et éthique de l'IA dans les organisations Notre culture Chez Thiga, nous vivons selon des principes forts : Product first Nous pensons produit dans sa globalité, de l'expérience utilisateur jusqu'à l'infrastructure. Hands-on or nothing Notre approche est radicalement pratique. Nous croyons en la démonstration concrète plutôt qu'en la théorie. Market Maker by Design Nous repoussons les limites et partageons ouvertement nos innovations. Knowledge Open Bar Le savoir n'a de valeur que lorsqu'il est largement partagé. Nous diffusons librement nos apprentissages et nos outils. Thiga accueille toutes les personnes compétentes et passionnées et s'engage en faveur de la diversité culturelle, l'égalité de genre et l'emploi des travailleurs handicapés — au contraire nous considérons la diversité comme une grande richesse #ProductManager #IA #Innovation #AIAgents #ProductInnovation #MarketMaker #GenerativeAI #LLM #AIRevolution Find Jobs in France on Arbeitnow",
+        "summary": "En tant que Product Builder et/ou Product Manager IA , tu seras en immersion au sein des équipes de nos clients.",
+        "cv_expectations": [
+          "Show product strategy, roadmap ownership, and prioritization outcomes.",
+          "Name the AI/ML systems you shipped and the model, data, or evaluation tradeoffs you owned.",
+          "Demonstrate cross-functional leadership across engineering, design, data, and go-to-market teams."
+        ]
+      }
+    ]
   }
 }
