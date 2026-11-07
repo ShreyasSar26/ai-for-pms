@@ -190,30 +190,11 @@
     ]
   },
   "live_feed": {
-    "generated_at": "2026-11-06T10:54:57.528Z",
+    "generated_at": "2026-11-07T10:13:05.206Z",
     "sources": [
       "Remotive API",
       "Arbeitnow API"
     ],
-    "jobs": [
-      {
-        "title": "Product Owner Annuaires H/F",
-        "company": "Agence du Numérique en Santé",
-        "location": "Paris, Île-de-France, France",
-        "url": "https://www.arbeitnow.fr/jobs/companies/agence-du-numerique-en-sante/product-owner-annuaires-h-f-paris-324019",
-        "source": "Arbeitnow",
-        "posted_date": "2026-11-06",
-        "remote": false,
-        "tags": [
-          "DOPS"
-        ],
-        "description": "L’ Agence du Numérique en Santé (ANS) accompagne la transformation numérique du système de santé en France. Elle œuvre, aux côtés de ses partenaires institutionnels et professionnels, à garantir la confiance dans le numérique en santé, à sécuriser les échanges de données et à promouvoir des outils au service de la qualité des soins et du pilotage du système de santé. Au sein des équipes en charge des systèmes d’information des répertoires nationaux des professionnels de santé (RPPS, RASS, ENREG), vous intervenez en tant que Product Owner sur des produits structurants du numérique en santé. Vous contribuez à la définition de la stratégie produit, au pilotage des évolutions et au maintien d’un haut niveau de qualité de service, en lien étroit avec les équipes techniques, les prestataires et les utilisateurs. 🎯 Missions principales 1. Pilotage produit & delivery Contribuer à la définition et au suivi de la roadmap produit . Prioriser le backlog et piloter les développements avec les équipes de réalisation. Rédiger, challenger et valider les user stories . Organiser et coordonner les sprints avec les autres Product Owners. 2. Qualité de service & optimisation Garantir la qualité du service rendu aux utilisateurs (disponibilité, performance, incidents). Piloter la résolution des incidents et le suivi des mises en production. Définir et suivre des indicateurs de pilotage , analyser les usages et produire les reportings associés. 3. Gouvernance & coordination Participer aux instances de gouvernance et aux échanges avec les utilisateurs et partenaires. Représenter le produit sur votre périmètre et contribuer à la cohérence des travaux du domaine. 💼 Profil recherché Formation supérieure Bac+5 (école d’ingénieur ou formation universitaire). Expérience confirmée d’au moins 5 ans en tant que Product Owner. Expérience dans le pilotage de prestataires. Solides capacités d’analyse, de synthèse et de rédaction. Aisance dans l’animation d’ateliers et le travail en équipe transverse. Rigueur, autonomie, esprit d’initiative et sens du service public. Sensibilité aux enjeux du secteur santé (connaissance métier appréciée). Find Jobs in France on Arbeitnow",
-        "summary": "L’ Agence du Numérique en Santé (ANS) accompagne la transformation numérique du système de santé en France.  Elle œuvre, aux côtés de ses partenaires institutionnels et professionnels, à garantir la confiance dans le numérique en santé, à sécuriser les échanges de données et à promouvoir des outils au service de la qualité des soins et du pilotage du système de santé.  Au sein des équipes en charge des systèmes d’information des répertoires nationaux des professionnels de santé (RPPS, RASS, ENREG), vous intervenez en tant que Product Owner sur des produits structurants du numérique en santé.",
-        "cv_expectations": [
-          "Show product strategy, roadmap ownership, and prioritization outcomes.",
-          "Quantify products or features launched and their customer or business impact."
-        ]
-      }
-    ]
+    "jobs": []
   }
 }
